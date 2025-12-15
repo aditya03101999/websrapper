@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>IBBI Scraper</title>
+    <style>
+        body { font-family: Arial; text-align: center; padding: 50px; }
+
+        button {
+            padding: 15px 30px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: green;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+
+        button:hover {
+            background-color: darkgreen;
+        }
+
+        #status { margin-top: 20px; color: #555; }
+
+        /* Progress bar container */
+        .progress-container {
+            width: 80%;
+            background-color: #f3f3f3;
+            border-radius: 5px;
+            margin: 20px auto;
+            display: none; /* hidden initially */
+        }
+
+        /* Progress bar itself */
+        .progress-bar {
+            width: 0%;
+            height: 20px;
+            background-color: #4CAF50;
+            border-radius: 5px;
+            transition: width 0.3s;
+        }
+    </style>
+</head>
+<body>
+    <h2>IBBI Resolution Plan Scraper</h2>
+    <button onclick="startScraping()">Start Scraping</button>
+
+    <!-- Progress bar -->
+    <div class="progress-container" id="progressContainer">
+        <div class="progress-bar" id="progressBar"></div>
+    </div>
+
+    <div id="status"></div>
+
+    <script>
+        async function startScraping() {
+            const statusDiv = document.getElementById('status');
+            const progressContainer = document.getElementById('progressContainer');
+            const progressBar = document.getElementById('progressBar');
+
+            statusDiv.textContent = "";
+            progressContainer.style.display = "block";
+            progressBar.style.width = "30%"; // show initial progress
+
+            try {
+                const response = await fetch('/start-scraping');
+                progressBar.style.width = "70%"; // midway
+
+                if (response.ok) {
+                    const blob = await response.blob();
+                    const url = window.URL.createObjectURL(blob);
+                    const a = document.createElement('a');
+                    a.href = url;
+
+                    let fileName = 'ibbi_resolution_plans.xlsx';
+                    const disposition = response.headers.get('content-disposition');
+                    if (disposition && disposition.indexOf('filename=') !== -1) {
+                        fileName = disposition.split('filename=')[1].replace(/"/g, '');
+                    }
+
+                    a.download = fileName;
+                    document.body.appendChild(a);
+                    a.click();
+                    a.remove();
+
+                    progressBar.style.width = "100%"; // complete
+                    statusDiv.textContent = "Scraping finished. File downloaded.";
+                } else {
+                    const error = await response.json();
+                    statusDiv.textContent = "Scraping failed: " + error.error;
+                    progressContainer.style.display = "none";
+                }
+            } catch (err) {
+                statusDiv.textContent = "An error occurred.";
+                progressContainer.style.display = "none";
+                console.error(err);
+            }
+        }
+    </script>
+</body>
+</html>
