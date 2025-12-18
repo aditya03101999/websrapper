@@ -11,8 +11,13 @@ from urllib3.util.retry import Retry
 # ----------------------------------
 # Logger Configuration
 # ----------------------------------
-LOG_FILE = "scraper.log"
+import os
+import logging
 
+# Absolute path
+LOG_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "scraper.log")
+
+# Logger config
 logging.basicConfig(
     filename=LOG_FILE,
     filemode="a",
@@ -21,6 +26,8 @@ logging.basicConfig(
 )
 
 logger = logging.getLogger(__name__)
+logger.info("Logger initialized on production server")
+
 
 
 class IBBIScraper:

@@ -475,3 +475,9 @@
 2025-12-18 14:43:32,976 | INFO | Scraping completed. Total records: 3031
 2025-12-18 14:43:33,358 | INFO | Excel file saved successfully: /Users/aditya/Scrapping_ibbi_data/api/../output/ibbi_resolution_plans_2025-12-18_14-40-19.xlsx
 2025-12-18 14:43:33,359 | INFO | 127.0.0.1 - - [18/Dec/2025 14:43:33] "GET /start-scraping HTTP/1.1" 200 -
+2025-12-18 14:56:50,504 | INFO |  * Detected change in '/Users/aditya/Scrapping_ibbi_data/scraper/functions.py', reloading
+2025-12-18 14:56:50,639 | INFO |  * Restarting with stat
+2025-12-18 16:13:36,803 | INFO |  * Restarting with stat
+2025-12-18 16:16:49,380 | INFO |  * Restarting with stat
+2025-12-18 16:18:28,542 | INFO |  * Restarting with stat
+2025-12-18 16:18:47,397 | INFO |  * Restarting with stat

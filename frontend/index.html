@@ -15,7 +15,12 @@
             border-radius: 5px;
         }
 
-        button:hover {
+        button:disabled {
+            background-color: gray;
+            cursor: not-allowed;
+        }
+
+        button:hover:enabled {
             background-color: darkgreen;
         }
 
@@ -42,7 +47,7 @@
 </head>
 <body>
     <h2>IBBI Resolution Plan Scraper</h2>
-    <button onclick="startScraping()">Start Scraping</button>
+    <button id="startBtn" onclick="startScraping()">Start Scraping</button>
 
     <!-- Progress bar -->
     <div class="progress-container" id="progressContainer">
@@ -53,9 +58,13 @@
 
     <script>
         async function startScraping() {
+            const startBtn = document.getElementById('startBtn');
             const statusDiv = document.getElementById('status');
             const progressContainer = document.getElementById('progressContainer');
             const progressBar = document.getElementById('progressBar');
+
+            // Disable button immediately
+            startBtn.disabled = true;
 
             statusDiv.textContent = "";
             progressContainer.style.display = "block";
@@ -84,14 +93,17 @@
 
                     progressBar.style.width = "100%"; // complete
                     statusDiv.textContent = "Scraping finished. File downloaded.";
+
                 } else {
                     const error = await response.json();
                     statusDiv.textContent = "Scraping failed: " + error.error;
+                    startBtn.disabled = false; // re-enable button on error
                     progressContainer.style.display = "none";
                 }
             } catch (err) {
                 statusDiv.textContent = "An error occurred.";
                 progressContainer.style.display = "none";
+                startBtn.disabled = false; // re-enable button on error
                 console.error(err);
             }
         }
