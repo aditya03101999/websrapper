@@ -2474,3 +2474,1466 @@
 2025-12-18 16:22:03,601 | INFO | Scraping completed. Total records: 3031
 2025-12-18 16:22:03,886 | INFO | Excel file saved successfully: /Users/aditya/Scrapping_ibbi_data/api/../output/ibbi_resolution_plans_2025-12-18_16-19-00.xlsx
 2025-12-18 16:22:03,887 | INFO | 127.0.0.1 - - [18/Dec/2025 16:22:03] "GET /start-scraping HTTP/1.1" 200 -
+2025-12-30 11:22:51,250 | INFO | Logger initialized on production server
+2025-12-30 11:25:51,342 | INFO | Logger initialized on production server
+2025-12-30 11:25:53,652 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-30 11:25:53,652 | INFO | [33mPress CTRL+C to quit[0m
+2025-12-30 11:25:53,653 | INFO |  * Restarting with stat
+2025-12-30 11:25:53,987 | INFO | Logger initialized on production server
+2025-12-30 11:25:54,009 | WARNING |  * Debugger is active!
+2025-12-30 11:25:54,024 | INFO |  * Debugger PIN: 120-998-675
+2025-12-30 11:26:13,344 | INFO | 127.0.0.1 - - [30/Dec/2025 11:26:13] "GET / HTTP/1.1" 200 -
+2025-12-30 11:26:13,467 | INFO | 127.0.0.1 - - [30/Dec/2025 11:26:13] "[33mGET /path-to-your-favicon.ico HTTP/1.1[0m" 404 -
+2025-12-30 11:26:17,361 | INFO | IBBI Scraper initialized
+2025-12-30 11:26:17,362 | INFO | HTTP session with retry configured
+2025-12-30 11:26:17,362 | INFO | Scraping started
+2025-12-30 11:26:17,362 | INFO | Processing page 1
+2025-12-30 11:26:17,362 | INFO | Scraping page 1
+2025-12-30 11:26:17,845 | INFO | Page 1 scraped successfully with 20 records
+2025-12-30 11:26:18,851 | INFO | Processing page 2
+2025-12-30 11:26:18,851 | INFO | Scraping page 2
+2025-12-30 11:26:18,999 | INFO | Page 2 scraped successfully with 20 records
+2025-12-30 11:26:20,005 | INFO | Processing page 3
+2025-12-30 11:26:20,005 | INFO | Scraping page 3
+2025-12-30 11:26:20,416 | INFO | Page 3 scraped successfully with 20 records
+2025-12-30 11:26:21,421 | INFO | Processing page 4
+2025-12-30 11:26:21,422 | INFO | Scraping page 4
+2025-12-30 11:26:21,574 | INFO | Page 4 scraped successfully with 20 records
+2025-12-30 11:26:22,579 | INFO | Processing page 5
+2025-12-30 11:26:22,579 | INFO | Scraping page 5
+2025-12-30 11:26:22,711 | INFO | Page 5 scraped successfully with 20 records
+2025-12-30 11:26:23,716 | INFO | Processing page 6
+2025-12-30 11:26:23,717 | INFO | Scraping page 6
+2025-12-30 11:26:23,852 | INFO | Page 6 scraped successfully with 20 records
+2025-12-30 11:26:24,857 | INFO | Processing page 7
+2025-12-30 11:26:24,858 | INFO | Scraping page 7
+2025-12-30 11:26:24,984 | INFO | Page 7 scraped successfully with 20 records
+2025-12-30 11:26:25,989 | INFO | Processing page 8
+2025-12-30 11:26:25,990 | INFO | Scraping page 8
+2025-12-30 11:26:26,124 | INFO | Page 8 scraped successfully with 20 records
+2025-12-30 11:26:27,129 | INFO | Processing page 9
+2025-12-30 11:26:27,129 | INFO | Scraping page 9
+2025-12-30 11:26:27,254 | INFO | Page 9 scraped successfully with 20 records
+2025-12-30 11:26:28,260 | INFO | Processing page 10
+2025-12-30 11:26:28,260 | INFO | Scraping page 10
+2025-12-30 11:26:28,631 | INFO | Page 10 scraped successfully with 20 records
+2025-12-30 11:26:29,636 | INFO | Processing page 11
+2025-12-30 11:26:29,637 | INFO | Scraping page 11
+2025-12-30 11:26:29,777 | INFO | Page 11 scraped successfully with 20 records
+2025-12-30 11:26:30,782 | INFO | Processing page 12
+2025-12-30 11:26:30,782 | INFO | Scraping page 12
+2025-12-30 11:26:30,901 | INFO | Page 12 scraped successfully with 20 records
+2025-12-30 11:26:31,907 | INFO | Processing page 13
+2025-12-30 11:26:31,907 | INFO | Scraping page 13
+2025-12-30 11:26:32,018 | INFO | Page 13 scraped successfully with 20 records
+2025-12-30 11:26:33,023 | INFO | Processing page 14
+2025-12-30 11:26:33,024 | INFO | Scraping page 14
+2025-12-30 11:26:33,148 | INFO | Page 14 scraped successfully with 20 records
+2025-12-30 11:26:34,154 | INFO | Processing page 15
+2025-12-30 11:26:34,155 | INFO | Scraping page 15
+2025-12-30 11:26:34,278 | INFO | Page 15 scraped successfully with 20 records
+2025-12-30 11:26:35,284 | INFO | Processing page 16
+2025-12-30 11:26:35,284 | INFO | Scraping page 16
+2025-12-30 11:26:35,414 | INFO | Page 16 scraped successfully with 20 records
+2025-12-30 11:26:36,419 | INFO | Processing page 17
+2025-12-30 11:26:36,419 | INFO | Scraping page 17
+2025-12-30 11:26:36,532 | INFO | Page 17 scraped successfully with 20 records
+2025-12-30 11:26:37,536 | INFO | Processing page 18
+2025-12-30 11:26:37,536 | INFO | Scraping page 18
+2025-12-30 11:26:37,677 | INFO | Page 18 scraped successfully with 20 records
+2025-12-30 11:26:38,678 | INFO | Processing page 19
+2025-12-30 11:26:38,678 | INFO | Scraping page 19
+2025-12-30 11:26:38,805 | INFO | Page 19 scraped successfully with 20 records
+2025-12-30 11:26:39,810 | INFO | Processing page 20
+2025-12-30 11:26:39,810 | INFO | Scraping page 20
+2025-12-30 11:26:39,933 | INFO | Page 20 scraped successfully with 20 records
+2025-12-30 11:26:40,938 | INFO | Processing page 21
+2025-12-30 11:26:40,938 | INFO | Scraping page 21
+2025-12-30 11:26:41,048 | INFO | Page 21 scraped successfully with 20 records
+2025-12-30 11:26:42,053 | INFO | Processing page 22
+2025-12-30 11:26:42,053 | INFO | Scraping page 22
+2025-12-30 11:26:42,176 | INFO | Page 22 scraped successfully with 20 records
+2025-12-30 11:26:43,181 | INFO | Processing page 23
+2025-12-30 11:26:43,182 | INFO | Scraping page 23
+2025-12-30 11:26:43,308 | INFO | Page 23 scraped successfully with 20 records
+2025-12-30 11:26:44,313 | INFO | Processing page 24
+2025-12-30 11:26:44,313 | INFO | Scraping page 24
+2025-12-30 11:26:44,467 | INFO | Page 24 scraped successfully with 20 records
+2025-12-30 11:26:45,472 | INFO | Processing page 25
+2025-12-30 11:26:45,472 | INFO | Scraping page 25
+2025-12-30 11:26:45,623 | INFO | Page 25 scraped successfully with 20 records
+2025-12-30 11:26:46,628 | INFO | Processing page 26
+2025-12-30 11:26:46,628 | INFO | Scraping page 26
+2025-12-30 11:26:46,755 | INFO | Page 26 scraped successfully with 20 records
+2025-12-30 11:26:47,760 | INFO | Processing page 27
+2025-12-30 11:26:47,761 | INFO | Scraping page 27
+2025-12-30 11:26:47,883 | INFO | Page 27 scraped successfully with 20 records
+2025-12-30 11:26:48,889 | INFO | Processing page 28
+2025-12-30 11:26:48,889 | INFO | Scraping page 28
+2025-12-30 11:26:49,008 | INFO | Page 28 scraped successfully with 20 records
+2025-12-30 11:26:50,013 | INFO | Processing page 29
+2025-12-30 11:26:50,013 | INFO | Scraping page 29
+2025-12-30 11:26:50,198 | INFO | Page 29 scraped successfully with 20 records
+2025-12-30 11:26:51,203 | INFO | Processing page 30
+2025-12-30 11:26:51,203 | INFO | Scraping page 30
+2025-12-30 11:26:51,322 | INFO | Page 30 scraped successfully with 20 records
+2025-12-30 11:26:52,327 | INFO | Processing page 31
+2025-12-30 11:26:52,328 | INFO | Scraping page 31
+2025-12-30 11:26:52,452 | INFO | Page 31 scraped successfully with 20 records
+2025-12-30 11:26:53,453 | INFO | Processing page 32
+2025-12-30 11:26:53,453 | INFO | Scraping page 32
+2025-12-30 11:27:03,815 | INFO | Page 32 scraped successfully with 20 records
+2025-12-30 11:27:04,820 | INFO | Processing page 33
+2025-12-30 11:27:04,821 | INFO | Scraping page 33
+2025-12-30 11:27:04,946 | INFO | Page 33 scraped successfully with 20 records
+2025-12-30 11:27:05,952 | INFO | Processing page 34
+2025-12-30 11:27:05,952 | INFO | Scraping page 34
+2025-12-30 11:27:06,085 | INFO | Page 34 scraped successfully with 20 records
+2025-12-30 11:27:07,090 | INFO | Processing page 35
+2025-12-30 11:27:07,090 | INFO | Scraping page 35
+2025-12-30 11:27:07,214 | INFO | Page 35 scraped successfully with 20 records
+2025-12-30 11:27:08,220 | INFO | Processing page 36
+2025-12-30 11:27:08,220 | INFO | Scraping page 36
+2025-12-30 11:27:08,348 | INFO | Page 36 scraped successfully with 20 records
+2025-12-30 11:27:09,352 | INFO | Processing page 37
+2025-12-30 11:27:09,353 | INFO | Scraping page 37
+2025-12-30 11:27:09,489 | INFO | Page 37 scraped successfully with 20 records
+2025-12-30 11:27:10,495 | INFO | Processing page 38
+2025-12-30 11:27:10,495 | INFO | Scraping page 38
+2025-12-30 11:27:10,625 | INFO | Page 38 scraped successfully with 20 records
+2025-12-30 11:27:11,630 | INFO | Processing page 39
+2025-12-30 11:27:11,630 | INFO | Scraping page 39
+2025-12-30 11:27:11,788 | INFO | Page 39 scraped successfully with 20 records
+2025-12-30 11:27:12,793 | INFO | Processing page 40
+2025-12-30 11:27:12,794 | INFO | Scraping page 40
+2025-12-30 11:27:12,933 | INFO | Page 40 scraped successfully with 20 records
+2025-12-30 11:27:13,938 | INFO | Processing page 41
+2025-12-30 11:27:13,939 | INFO | Scraping page 41
+2025-12-30 11:27:14,078 | INFO | Page 41 scraped successfully with 20 records
+2025-12-30 11:27:15,083 | INFO | Processing page 42
+2025-12-30 11:27:15,083 | INFO | Scraping page 42
+2025-12-30 11:27:15,209 | INFO | Page 42 scraped successfully with 20 records
+2025-12-30 11:27:16,214 | INFO | Processing page 43
+2025-12-30 11:27:16,215 | INFO | Scraping page 43
+2025-12-30 11:27:16,358 | INFO | Page 43 scraped successfully with 20 records
+2025-12-30 11:27:17,363 | INFO | Processing page 44
+2025-12-30 11:27:17,364 | INFO | Scraping page 44
+2025-12-30 11:27:17,493 | INFO | Page 44 scraped successfully with 20 records
+2025-12-30 11:27:18,495 | INFO | Processing page 45
+2025-12-30 11:27:18,495 | INFO | Scraping page 45
+2025-12-30 11:27:18,626 | INFO | Page 45 scraped successfully with 20 records
+2025-12-30 11:27:19,631 | INFO | Processing page 46
+2025-12-30 11:27:19,632 | INFO | Scraping page 46
+2025-12-30 11:27:19,762 | INFO | Page 46 scraped successfully with 20 records
+2025-12-30 11:27:20,767 | INFO | Processing page 47
+2025-12-30 11:27:20,767 | INFO | Scraping page 47
+2025-12-30 11:27:20,902 | INFO | Page 47 scraped successfully with 20 records
+2025-12-30 11:27:21,907 | INFO | Processing page 48
+2025-12-30 11:27:21,908 | INFO | Scraping page 48
+2025-12-30 11:27:22,080 | INFO | Page 48 scraped successfully with 20 records
+2025-12-30 11:27:23,086 | INFO | Processing page 49
+2025-12-30 11:27:23,086 | INFO | Scraping page 49
+2025-12-30 11:27:23,469 | INFO | Page 49 scraped successfully with 20 records
+2025-12-30 11:27:24,472 | INFO | Processing page 50
+2025-12-30 11:27:24,472 | INFO | Scraping page 50
+2025-12-30 11:27:24,698 | INFO | Page 50 scraped successfully with 20 records
+2025-12-30 11:27:25,703 | INFO | Processing page 51
+2025-12-30 11:27:25,704 | INFO | Scraping page 51
+2025-12-30 11:27:25,897 | INFO | Page 51 scraped successfully with 20 records
+2025-12-30 11:27:26,902 | INFO | Processing page 52
+2025-12-30 11:27:26,902 | INFO | Scraping page 52
+2025-12-30 11:27:27,083 | INFO | Page 52 scraped successfully with 20 records
+2025-12-30 11:27:28,089 | INFO | Processing page 53
+2025-12-30 11:27:28,089 | INFO | Scraping page 53
+2025-12-30 11:27:28,339 | INFO | Page 53 scraped successfully with 20 records
+2025-12-30 11:27:29,344 | INFO | Processing page 54
+2025-12-30 11:27:29,344 | INFO | Scraping page 54
+2025-12-30 11:27:29,543 | INFO | Page 54 scraped successfully with 20 records
+2025-12-30 11:27:30,548 | INFO | Processing page 55
+2025-12-30 11:27:30,549 | INFO | Scraping page 55
+2025-12-30 11:27:30,781 | INFO | Page 55 scraped successfully with 20 records
+2025-12-30 11:27:31,786 | INFO | Processing page 56
+2025-12-30 11:27:31,786 | INFO | Scraping page 56
+2025-12-30 11:27:32,017 | INFO | Page 56 scraped successfully with 20 records
+2025-12-30 11:27:33,022 | INFO | Processing page 57
+2025-12-30 11:27:33,023 | INFO | Scraping page 57
+2025-12-30 11:27:33,148 | INFO | Page 57 scraped successfully with 20 records
+2025-12-30 11:27:34,153 | INFO | Processing page 58
+2025-12-30 11:27:34,153 | INFO | Scraping page 58
+2025-12-30 11:27:34,286 | INFO | Page 58 scraped successfully with 20 records
+2025-12-30 11:27:35,292 | INFO | Processing page 59
+2025-12-30 11:27:35,292 | INFO | Scraping page 59
+2025-12-30 11:27:35,414 | INFO | Page 59 scraped successfully with 20 records
+2025-12-30 11:27:36,420 | INFO | Processing page 60
+2025-12-30 11:27:36,420 | INFO | Scraping page 60
+2025-12-30 11:27:36,534 | INFO | Page 60 scraped successfully with 20 records
+2025-12-30 11:27:37,539 | INFO | Processing page 61
+2025-12-30 11:27:37,540 | INFO | Scraping page 61
+2025-12-30 11:27:37,669 | INFO | Page 61 scraped successfully with 20 records
+2025-12-30 11:27:38,675 | INFO | Processing page 62
+2025-12-30 11:27:38,675 | INFO | Scraping page 62
+2025-12-30 11:27:38,807 | INFO | Page 62 scraped successfully with 20 records
+2025-12-30 11:27:39,813 | INFO | Processing page 63
+2025-12-30 11:27:39,813 | INFO | Scraping page 63
+2025-12-30 11:27:39,947 | INFO | Page 63 scraped successfully with 20 records
+2025-12-30 11:27:40,952 | INFO | Processing page 64
+2025-12-30 11:27:40,953 | INFO | Scraping page 64
+2025-12-30 11:27:41,080 | INFO | Page 64 scraped successfully with 20 records
+2025-12-30 11:27:42,085 | INFO | Processing page 65
+2025-12-30 11:27:42,085 | INFO | Scraping page 65
+2025-12-30 11:27:42,208 | INFO | Page 65 scraped successfully with 20 records
+2025-12-30 11:27:43,214 | INFO | Processing page 66
+2025-12-30 11:27:43,214 | INFO | Scraping page 66
+2025-12-30 11:27:43,329 | INFO | Page 66 scraped successfully with 20 records
+2025-12-30 11:27:44,334 | INFO | Processing page 67
+2025-12-30 11:27:44,335 | INFO | Scraping page 67
+2025-12-30 11:27:44,461 | INFO | Page 67 scraped successfully with 20 records
+2025-12-30 11:27:45,467 | INFO | Processing page 68
+2025-12-30 11:27:45,468 | INFO | Scraping page 68
+2025-12-30 11:27:45,611 | INFO | Page 68 scraped successfully with 20 records
+2025-12-30 11:27:46,616 | INFO | Processing page 69
+2025-12-30 11:27:46,616 | INFO | Scraping page 69
+2025-12-30 11:27:46,737 | INFO | Page 69 scraped successfully with 20 records
+2025-12-30 11:27:47,742 | INFO | Processing page 70
+2025-12-30 11:27:47,742 | INFO | Scraping page 70
+2025-12-30 11:27:47,873 | INFO | Page 70 scraped successfully with 20 records
+2025-12-30 11:27:48,878 | INFO | Processing page 71
+2025-12-30 11:27:48,878 | INFO | Scraping page 71
+2025-12-30 11:27:48,993 | INFO | Page 71 scraped successfully with 20 records
+2025-12-30 11:27:49,999 | INFO | Processing page 72
+2025-12-30 11:27:49,999 | INFO | Scraping page 72
+2025-12-30 11:27:50,173 | INFO | Page 72 scraped successfully with 20 records
+2025-12-30 11:27:51,178 | INFO | Processing page 73
+2025-12-30 11:27:51,178 | INFO | Scraping page 73
+2025-12-30 11:27:51,307 | INFO | Page 73 scraped successfully with 20 records
+2025-12-30 11:27:52,310 | INFO | Processing page 74
+2025-12-30 11:27:52,310 | INFO | Scraping page 74
+2025-12-30 11:27:52,408 | INFO | Page 74 scraped successfully with 20 records
+2025-12-30 11:27:53,413 | INFO | Processing page 75
+2025-12-30 11:27:53,414 | INFO | Scraping page 75
+2025-12-30 11:27:53,532 | INFO | Page 75 scraped successfully with 20 records
+2025-12-30 11:27:54,537 | INFO | Processing page 76
+2025-12-30 11:27:54,538 | INFO | Scraping page 76
+2025-12-30 11:27:54,660 | INFO | Page 76 scraped successfully with 20 records
+2025-12-30 11:27:55,661 | INFO | Processing page 77
+2025-12-30 11:27:55,661 | INFO | Scraping page 77
+2025-12-30 11:27:55,774 | INFO | Page 77 scraped successfully with 20 records
+2025-12-30 11:27:56,779 | INFO | Processing page 78
+2025-12-30 11:27:56,780 | INFO | Scraping page 78
+2025-12-30 11:27:56,899 | INFO | Page 78 scraped successfully with 20 records
+2025-12-30 11:27:57,904 | INFO | Processing page 79
+2025-12-30 11:27:57,905 | INFO | Scraping page 79
+2025-12-30 11:27:58,020 | INFO | Page 79 scraped successfully with 20 records
+2025-12-30 11:27:59,025 | INFO | Processing page 80
+2025-12-30 11:27:59,025 | INFO | Scraping page 80
+2025-12-30 11:27:59,142 | INFO | Page 80 scraped successfully with 20 records
+2025-12-30 11:28:00,148 | INFO | Processing page 81
+2025-12-30 11:28:00,148 | INFO | Scraping page 81
+2025-12-30 11:28:00,267 | INFO | Page 81 scraped successfully with 20 records
+2025-12-30 11:28:01,272 | INFO | Processing page 82
+2025-12-30 11:28:01,272 | INFO | Scraping page 82
+2025-12-30 11:28:01,421 | INFO | Page 82 scraped successfully with 20 records
+2025-12-30 11:28:02,427 | INFO | Processing page 83
+2025-12-30 11:28:02,427 | INFO | Scraping page 83
+2025-12-30 11:28:02,552 | INFO | Page 83 scraped successfully with 20 records
+2025-12-30 11:28:03,557 | INFO | Processing page 84
+2025-12-30 11:28:03,557 | INFO | Scraping page 84
+2025-12-30 11:28:03,694 | INFO | Page 84 scraped successfully with 20 records
+2025-12-30 11:28:04,699 | INFO | Processing page 85
+2025-12-30 11:28:04,699 | INFO | Scraping page 85
+2025-12-30 11:28:04,822 | INFO | Page 85 scraped successfully with 20 records
+2025-12-30 11:28:05,828 | INFO | Processing page 86
+2025-12-30 11:28:05,828 | INFO | Scraping page 86
+2025-12-30 11:28:05,952 | INFO | Page 86 scraped successfully with 20 records
+2025-12-30 11:28:06,957 | INFO | Processing page 87
+2025-12-30 11:28:06,957 | INFO | Scraping page 87
+2025-12-30 11:28:07,096 | INFO | Page 87 scraped successfully with 20 records
+2025-12-30 11:28:08,101 | INFO | Processing page 88
+2025-12-30 11:28:08,101 | INFO | Scraping page 88
+2025-12-30 11:28:08,228 | INFO | Page 88 scraped successfully with 20 records
+2025-12-30 11:28:09,233 | INFO | Processing page 89
+2025-12-30 11:28:09,233 | INFO | Scraping page 89
+2025-12-30 11:28:09,350 | INFO | Page 89 scraped successfully with 20 records
+2025-12-30 11:28:10,356 | INFO | Processing page 90
+2025-12-30 11:28:10,356 | INFO | Scraping page 90
+2025-12-30 11:28:10,489 | INFO | Page 90 scraped successfully with 20 records
+2025-12-30 11:28:11,495 | INFO | Processing page 91
+2025-12-30 11:28:11,495 | INFO | Scraping page 91
+2025-12-30 11:28:11,618 | INFO | Page 91 scraped successfully with 20 records
+2025-12-30 11:28:12,623 | INFO | Processing page 92
+2025-12-30 11:28:12,623 | INFO | Scraping page 92
+2025-12-30 11:28:12,752 | INFO | Page 92 scraped successfully with 20 records
+2025-12-30 11:28:13,757 | INFO | Processing page 93
+2025-12-30 11:28:13,758 | INFO | Scraping page 93
+2025-12-30 11:28:13,900 | INFO | Page 93 scraped successfully with 20 records
+2025-12-30 11:28:14,905 | INFO | Processing page 94
+2025-12-30 11:28:14,905 | INFO | Scraping page 94
+2025-12-30 11:28:15,038 | INFO | Page 94 scraped successfully with 20 records
+2025-12-30 11:28:16,043 | INFO | Processing page 95
+2025-12-30 11:28:16,043 | INFO | Scraping page 95
+2025-12-30 11:28:16,157 | INFO | Page 95 scraped successfully with 20 records
+2025-12-30 11:28:17,163 | INFO | Processing page 96
+2025-12-30 11:28:17,163 | INFO | Scraping page 96
+2025-12-30 11:28:17,299 | INFO | Page 96 scraped successfully with 20 records
+2025-12-30 11:28:18,304 | INFO | Processing page 97
+2025-12-30 11:28:18,304 | INFO | Scraping page 97
+2025-12-30 11:28:18,430 | INFO | Page 97 scraped successfully with 20 records
+2025-12-30 11:28:19,435 | INFO | Processing page 98
+2025-12-30 11:28:19,436 | INFO | Scraping page 98
+2025-12-30 11:28:19,556 | INFO | Page 98 scraped successfully with 20 records
+2025-12-30 11:28:20,561 | INFO | Processing page 99
+2025-12-30 11:28:20,561 | INFO | Scraping page 99
+2025-12-30 11:28:20,680 | INFO | Page 99 scraped successfully with 20 records
+2025-12-30 11:28:21,685 | INFO | Processing page 100
+2025-12-30 11:28:21,685 | INFO | Scraping page 100
+2025-12-30 11:28:21,805 | INFO | Page 100 scraped successfully with 20 records
+2025-12-30 11:28:22,811 | INFO | Processing page 101
+2025-12-30 11:28:22,811 | INFO | Scraping page 101
+2025-12-30 11:28:22,933 | INFO | Page 101 scraped successfully with 20 records
+2025-12-30 11:28:23,938 | INFO | Processing page 102
+2025-12-30 11:28:23,939 | INFO | Scraping page 102
+2025-12-30 11:28:24,068 | INFO | Page 102 scraped successfully with 20 records
+2025-12-30 11:28:25,073 | INFO | Processing page 103
+2025-12-30 11:28:25,074 | INFO | Scraping page 103
+2025-12-30 11:28:25,191 | INFO | Page 103 scraped successfully with 20 records
+2025-12-30 11:28:26,196 | INFO | Processing page 104
+2025-12-30 11:28:26,196 | INFO | Scraping page 104
+2025-12-30 11:28:26,313 | INFO | Page 104 scraped successfully with 20 records
+2025-12-30 11:28:27,318 | INFO | Processing page 105
+2025-12-30 11:28:27,319 | INFO | Scraping page 105
+2025-12-30 11:28:27,436 | INFO | Page 105 scraped successfully with 20 records
+2025-12-30 11:28:28,442 | INFO | Processing page 106
+2025-12-30 11:28:28,442 | INFO | Scraping page 106
+2025-12-30 11:28:28,561 | INFO | Page 106 scraped successfully with 20 records
+2025-12-30 11:28:29,566 | INFO | Processing page 107
+2025-12-30 11:28:29,566 | INFO | Scraping page 107
+2025-12-30 11:28:29,691 | INFO | Page 107 scraped successfully with 20 records
+2025-12-30 11:28:30,696 | INFO | Processing page 108
+2025-12-30 11:28:30,696 | INFO | Scraping page 108
+2025-12-30 11:28:30,823 | INFO | Page 108 scraped successfully with 20 records
+2025-12-30 11:28:31,829 | INFO | Processing page 109
+2025-12-30 11:28:31,829 | INFO | Scraping page 109
+2025-12-30 11:28:31,948 | INFO | Page 109 scraped successfully with 20 records
+2025-12-30 11:28:32,953 | INFO | Processing page 110
+2025-12-30 11:28:32,953 | INFO | Scraping page 110
+2025-12-30 11:28:33,078 | INFO | Page 110 scraped successfully with 20 records
+2025-12-30 11:28:34,083 | INFO | Processing page 111
+2025-12-30 11:28:34,083 | INFO | Scraping page 111
+2025-12-30 11:28:34,209 | INFO | Page 111 scraped successfully with 20 records
+2025-12-30 11:28:35,214 | INFO | Processing page 112
+2025-12-30 11:28:35,215 | INFO | Scraping page 112
+2025-12-30 11:28:35,342 | INFO | Page 112 scraped successfully with 20 records
+2025-12-30 11:28:36,348 | INFO | Processing page 113
+2025-12-30 11:28:36,348 | INFO | Scraping page 113
+2025-12-30 11:28:36,480 | INFO | Page 113 scraped successfully with 20 records
+2025-12-30 11:28:37,485 | INFO | Processing page 114
+2025-12-30 11:28:37,486 | INFO | Scraping page 114
+2025-12-30 11:28:37,607 | INFO | Page 114 scraped successfully with 20 records
+2025-12-30 11:28:38,612 | INFO | Processing page 115
+2025-12-30 11:28:38,612 | INFO | Scraping page 115
+2025-12-30 11:28:38,741 | INFO | Page 115 scraped successfully with 20 records
+2025-12-30 11:28:39,747 | INFO | Processing page 116
+2025-12-30 11:28:39,747 | INFO | Scraping page 116
+2025-12-30 11:28:39,891 | INFO | Page 116 scraped successfully with 20 records
+2025-12-30 11:28:40,896 | INFO | Processing page 117
+2025-12-30 11:28:40,896 | INFO | Scraping page 117
+2025-12-30 11:28:41,032 | INFO | Page 117 scraped successfully with 20 records
+2025-12-30 11:28:42,037 | INFO | Processing page 118
+2025-12-30 11:28:42,037 | INFO | Scraping page 118
+2025-12-30 11:28:42,163 | INFO | Page 118 scraped successfully with 20 records
+2025-12-30 11:28:43,169 | INFO | Processing page 119
+2025-12-30 11:28:43,169 | INFO | Scraping page 119
+2025-12-30 11:28:43,297 | INFO | Page 119 scraped successfully with 20 records
+2025-12-30 11:28:44,302 | INFO | Processing page 120
+2025-12-30 11:28:44,302 | INFO | Scraping page 120
+2025-12-30 11:28:44,435 | INFO | Page 120 scraped successfully with 20 records
+2025-12-30 11:28:45,440 | INFO | Processing page 121
+2025-12-30 11:28:45,441 | INFO | Scraping page 121
+2025-12-30 11:28:45,574 | INFO | Page 121 scraped successfully with 20 records
+2025-12-30 11:28:46,579 | INFO | Processing page 122
+2025-12-30 11:28:46,580 | INFO | Scraping page 122
+2025-12-30 11:28:46,704 | INFO | Page 122 scraped successfully with 20 records
+2025-12-30 11:28:47,709 | INFO | Processing page 123
+2025-12-30 11:28:47,710 | INFO | Scraping page 123
+2025-12-30 11:28:47,831 | INFO | Page 123 scraped successfully with 20 records
+2025-12-30 11:28:48,836 | INFO | Processing page 124
+2025-12-30 11:28:48,837 | INFO | Scraping page 124
+2025-12-30 11:28:48,962 | INFO | Page 124 scraped successfully with 20 records
+2025-12-30 11:28:49,967 | INFO | Processing page 125
+2025-12-30 11:28:49,967 | INFO | Scraping page 125
+2025-12-30 11:28:50,090 | INFO | Page 125 scraped successfully with 20 records
+2025-12-30 11:28:51,095 | INFO | Processing page 126
+2025-12-30 11:28:51,095 | INFO | Scraping page 126
+2025-12-30 11:28:51,217 | INFO | Page 126 scraped successfully with 20 records
+2025-12-30 11:28:52,223 | INFO | Processing page 127
+2025-12-30 11:28:52,223 | INFO | Scraping page 127
+2025-12-30 11:28:52,350 | INFO | Page 127 scraped successfully with 20 records
+2025-12-30 11:28:53,355 | INFO | Processing page 128
+2025-12-30 11:28:53,355 | INFO | Scraping page 128
+2025-12-30 11:28:53,481 | INFO | Page 128 scraped successfully with 20 records
+2025-12-30 11:28:54,486 | INFO | Processing page 129
+2025-12-30 11:28:54,487 | INFO | Scraping page 129
+2025-12-30 11:28:54,604 | INFO | Page 129 scraped successfully with 20 records
+2025-12-30 11:28:55,609 | INFO | Processing page 130
+2025-12-30 11:28:55,609 | INFO | Scraping page 130
+2025-12-30 11:28:55,732 | INFO | Page 130 scraped successfully with 20 records
+2025-12-30 11:28:56,737 | INFO | Processing page 131
+2025-12-30 11:28:56,737 | INFO | Scraping page 131
+2025-12-30 11:28:56,863 | INFO | Page 131 scraped successfully with 20 records
+2025-12-30 11:28:57,868 | INFO | Processing page 132
+2025-12-30 11:28:57,868 | INFO | Scraping page 132
+2025-12-30 11:28:57,992 | INFO | Page 132 scraped successfully with 20 records
+2025-12-30 11:28:58,997 | INFO | Processing page 133
+2025-12-30 11:28:58,998 | INFO | Scraping page 133
+2025-12-30 11:28:59,138 | INFO | Page 133 scraped successfully with 20 records
+2025-12-30 11:29:00,143 | INFO | Processing page 134
+2025-12-30 11:29:00,143 | INFO | Scraping page 134
+2025-12-30 11:29:00,259 | INFO | Page 134 scraped successfully with 20 records
+2025-12-30 11:29:01,260 | INFO | Processing page 135
+2025-12-30 11:29:01,260 | INFO | Scraping page 135
+2025-12-30 11:29:01,386 | INFO | Page 135 scraped successfully with 20 records
+2025-12-30 11:29:02,391 | INFO | Processing page 136
+2025-12-30 11:29:02,392 | INFO | Scraping page 136
+2025-12-30 11:29:02,512 | INFO | Page 136 scraped successfully with 20 records
+2025-12-30 11:29:03,518 | INFO | Processing page 137
+2025-12-30 11:29:03,518 | INFO | Scraping page 137
+2025-12-30 11:29:04,114 | INFO | Page 137 scraped successfully with 20 records
+2025-12-30 11:29:05,119 | INFO | Processing page 138
+2025-12-30 11:29:05,120 | INFO | Scraping page 138
+2025-12-30 11:29:05,253 | INFO | Page 138 scraped successfully with 20 records
+2025-12-30 11:29:06,258 | INFO | Processing page 139
+2025-12-30 11:29:06,258 | INFO | Scraping page 139
+2025-12-30 11:29:06,387 | INFO | Page 139 scraped successfully with 20 records
+2025-12-30 11:29:07,392 | INFO | Processing page 140
+2025-12-30 11:29:07,393 | INFO | Scraping page 140
+2025-12-30 11:29:07,514 | INFO | Page 140 scraped successfully with 20 records
+2025-12-30 11:29:08,519 | INFO | Processing page 141
+2025-12-30 11:29:08,519 | INFO | Scraping page 141
+2025-12-30 11:29:08,647 | INFO | Page 141 scraped successfully with 20 records
+2025-12-30 11:29:09,652 | INFO | Processing page 142
+2025-12-30 11:29:09,652 | INFO | Scraping page 142
+2025-12-30 11:29:09,783 | INFO | Page 142 scraped successfully with 20 records
+2025-12-30 11:29:10,788 | INFO | Processing page 143
+2025-12-30 11:29:10,789 | INFO | Scraping page 143
+2025-12-30 11:29:10,913 | INFO | Page 143 scraped successfully with 20 records
+2025-12-30 11:29:11,918 | INFO | Processing page 144
+2025-12-30 11:29:11,918 | INFO | Scraping page 144
+2025-12-30 11:29:12,055 | INFO | Page 144 scraped successfully with 20 records
+2025-12-30 11:29:13,060 | INFO | Processing page 145
+2025-12-30 11:29:13,060 | INFO | Scraping page 145
+2025-12-30 11:29:13,184 | INFO | Page 145 scraped successfully with 20 records
+2025-12-30 11:29:14,190 | INFO | Processing page 146
+2025-12-30 11:29:14,190 | INFO | Scraping page 146
+2025-12-30 11:29:14,311 | INFO | Page 146 scraped successfully with 20 records
+2025-12-30 11:29:15,317 | INFO | Processing page 147
+2025-12-30 11:29:15,317 | INFO | Scraping page 147
+2025-12-30 11:29:15,432 | INFO | Page 147 scraped successfully with 20 records
+2025-12-30 11:29:16,437 | INFO | Processing page 148
+2025-12-30 11:29:16,438 | INFO | Scraping page 148
+2025-12-30 11:29:16,558 | INFO | Page 148 scraped successfully with 20 records
+2025-12-30 11:29:17,559 | INFO | Processing page 149
+2025-12-30 11:29:17,560 | INFO | Scraping page 149
+2025-12-30 11:29:17,682 | INFO | Page 149 scraped successfully with 20 records
+2025-12-30 11:29:18,688 | INFO | Processing page 150
+2025-12-30 11:29:18,688 | INFO | Scraping page 150
+2025-12-30 11:29:18,807 | INFO | Page 150 scraped successfully with 20 records
+2025-12-30 11:29:19,810 | INFO | Processing page 151
+2025-12-30 11:29:19,811 | INFO | Scraping page 151
+2025-12-30 11:29:22,601 | INFO | Page 151 scraped successfully with 20 records
+2025-12-30 11:29:23,606 | INFO | Processing page 152
+2025-12-30 11:29:23,606 | INFO | Scraping page 152
+2025-12-30 11:29:23,727 | INFO | Page 152 scraped successfully with 20 records
+2025-12-30 11:29:24,732 | INFO | Processing page 153
+2025-12-30 11:29:24,733 | INFO | Scraping page 153
+2025-12-30 11:29:24,855 | INFO | Page 153 scraped successfully with 20 records
+2025-12-30 11:29:25,860 | INFO | Processing page 154
+2025-12-30 11:29:25,861 | INFO | Scraping page 154
+2025-12-30 11:29:25,920 | ERROR | Network error on page 154: 404 Client Error: Not Found for url: https://ibbi.gov.in/resolution-plans?page=154
+2025-12-30 11:29:25,920 | WARNING | Empty data on page 154, retrying once
+2025-12-30 11:29:25,920 | INFO | Scraping page 154
+2025-12-30 11:29:25,978 | ERROR | Network error on page 154: 404 Client Error: Not Found for url: https://ibbi.gov.in/resolution-plans?page=154
+2025-12-30 11:29:25,978 | INFO | Stopping scraper at page 154
+2025-12-30 11:29:25,978 | INFO | Scraping completed. Total records: 3060
+2025-12-30 11:29:26,352 | INFO | Excel file saved successfully: /Users/aditya/Scrapping_ibbi_data/api/../output/ibbi_resolution_plans_2025-12-30_11-26-17.xlsx
+2025-12-30 11:29:26,353 | INFO | 127.0.0.1 - - [30/Dec/2025 11:29:26] "GET /start-scraping HTTP/1.1" 200 -
+2025-12-30 12:00:22,953 | INFO | 127.0.0.1 - - [30/Dec/2025 12:00:22] "GET / HTTP/1.1" 200 -
+2025-12-30 12:00:22,998 | INFO | 127.0.0.1 - - [30/Dec/2025 12:00:22] "[33mGET /Users/aditya/Scrapping_ibbi_data/frontend/favicon.png HTTP/1.1[0m" 404 -
+2025-12-30 12:02:44,582 | INFO | 127.0.0.1 - - [30/Dec/2025 12:02:44] "GET / HTTP/1.1" 200 -
+2025-12-30 12:02:47,163 | INFO | 127.0.0.1 - - [30/Dec/2025 12:02:47] "[36mGET / HTTP/1.1[0m" 304 -
+2025-12-30 12:02:48,846 | INFO | 127.0.0.1 - - [30/Dec/2025 12:02:48] "[36mGET / HTTP/1.1[0m" 304 -
+2025-12-30 12:02:49,176 | INFO | 127.0.0.1 - - [30/Dec/2025 12:02:49] "[36mGET / HTTP/1.1[0m" 304 -
+2025-12-30 12:02:49,477 | INFO | 127.0.0.1 - - [30/Dec/2025 12:02:49] "[36mGET / HTTP/1.1[0m" 304 -
+2025-12-30 12:04:15,264 | INFO | 127.0.0.1 - - [30/Dec/2025 12:04:15] "GET / HTTP/1.1" 200 -
+2025-12-30 12:09:03,944 | INFO | Logger initialized on production server
+2025-12-30 12:09:03,971 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-12-30 12:09:03,971 | INFO | [33mPress CTRL+C to quit[0m
+2025-12-30 12:09:03,971 | INFO |  * Restarting with stat
+2025-12-30 12:09:04,266 | INFO | Logger initialized on production server
+2025-12-30 12:09:04,284 | WARNING |  * Debugger is active!
+2025-12-30 12:09:04,300 | INFO |  * Debugger PIN: 120-998-675
+2025-12-30 12:09:27,563 | INFO | 127.0.0.1 - - [30/Dec/2025 12:09:27] "GET / HTTP/1.1" 200 -
+2025-12-30 12:09:27,614 | INFO | 127.0.0.1 - - [30/Dec/2025 12:09:27] "[33mGET /frontend/favicon.png HTTP/1.1[0m" 404 -
+2025-12-30 12:09:30,795 | INFO | 127.0.0.1 - - [30/Dec/2025 12:09:30] "[36mGET / HTTP/1.1[0m" 304 -
+2025-12-30 12:09:43,840 | INFO | IBBI Scraper initialized
+2025-12-30 12:09:43,840 | INFO | HTTP session with retry configured
+2025-12-30 12:09:43,840 | INFO | Scraping started
+2025-12-30 12:09:43,841 | INFO | Processing page 1
+2025-12-30 12:09:43,841 | INFO | Scraping page 1
+2025-12-30 12:09:44,086 | INFO | Page 1 scraped successfully with 20 records
+2025-12-30 12:09:45,092 | INFO | Processing page 2
+2025-12-30 12:09:45,094 | INFO | Scraping page 2
+2025-12-30 12:09:45,199 | INFO | Page 2 scraped successfully with 20 records
+2025-12-30 12:09:46,204 | INFO | Processing page 3
+2025-12-30 12:09:46,205 | INFO | Scraping page 3
+2025-12-30 12:09:46,311 | INFO | Page 3 scraped successfully with 20 records
+2025-12-30 12:09:47,316 | INFO | Processing page 4
+2025-12-30 12:09:47,317 | INFO | Scraping page 4
+2025-12-30 12:09:47,435 | INFO | Page 4 scraped successfully with 20 records
+2025-12-30 12:09:48,438 | INFO | Processing page 5
+2025-12-30 12:09:48,438 | INFO | Scraping page 5
+2025-12-30 12:09:48,543 | INFO | Page 5 scraped successfully with 20 records
+2025-12-30 12:09:49,546 | INFO | Processing page 6
+2025-12-30 12:09:49,546 | INFO | Scraping page 6
+2025-12-30 12:09:49,659 | INFO | Page 6 scraped successfully with 20 records
+2025-12-30 12:09:50,665 | INFO | Processing page 7
+2025-12-30 12:09:50,665 | INFO | Scraping page 7
+2025-12-30 12:09:50,790 | INFO | Page 7 scraped successfully with 20 records
+2025-12-30 12:09:51,796 | INFO | Processing page 8
+2025-12-30 12:09:51,796 | INFO | Scraping page 8
+2025-12-30 12:09:51,908 | INFO | Page 8 scraped successfully with 20 records
+2025-12-30 12:09:52,913 | INFO | Processing page 9
+2025-12-30 12:09:52,914 | INFO | Scraping page 9
+2025-12-30 12:09:53,031 | INFO | Page 9 scraped successfully with 20 records
+2025-12-30 12:09:54,036 | INFO | Processing page 10
+2025-12-30 12:09:54,037 | INFO | Scraping page 10
+2025-12-30 12:09:54,147 | INFO | Page 10 scraped successfully with 20 records
+2025-12-30 12:09:55,153 | INFO | Processing page 11
+2025-12-30 12:09:55,153 | INFO | Scraping page 11
+2025-12-30 12:09:55,276 | INFO | Page 11 scraped successfully with 20 records
+2025-12-30 12:09:56,281 | INFO | Processing page 12
+2025-12-30 12:09:56,282 | INFO | Scraping page 12
+2025-12-30 12:09:56,393 | INFO | Page 12 scraped successfully with 20 records
+2025-12-30 12:09:57,398 | INFO | Processing page 13
+2025-12-30 12:09:57,399 | INFO | Scraping page 13
+2025-12-30 12:09:57,522 | INFO | Page 13 scraped successfully with 20 records
+2025-12-30 12:09:58,527 | INFO | Processing page 14
+2025-12-30 12:09:58,527 | INFO | Scraping page 14
+2025-12-30 12:09:58,648 | INFO | Page 14 scraped successfully with 20 records
+2025-12-30 12:09:59,653 | INFO | Processing page 15
+2025-12-30 12:09:59,654 | INFO | Scraping page 15
+2025-12-30 12:09:59,809 | INFO | Page 15 scraped successfully with 20 records
+2025-12-30 12:10:00,814 | INFO | Processing page 16
+2025-12-30 12:10:00,814 | INFO | Scraping page 16
+2025-12-30 12:10:00,939 | INFO | Page 16 scraped successfully with 20 records
+2025-12-30 12:10:01,944 | INFO | Processing page 17
+2025-12-30 12:10:01,945 | INFO | Scraping page 17
+2025-12-30 12:10:02,057 | INFO | Page 17 scraped successfully with 20 records
+2025-12-30 12:10:03,062 | INFO | Processing page 18
+2025-12-30 12:10:03,063 | INFO | Scraping page 18
+2025-12-30 12:10:03,180 | INFO | Page 18 scraped successfully with 20 records
+2025-12-30 12:10:04,186 | INFO | Processing page 19
+2025-12-30 12:10:04,186 | INFO | Scraping page 19
+2025-12-30 12:10:04,298 | INFO | Page 19 scraped successfully with 20 records
+2025-12-30 12:10:05,303 | INFO | Processing page 20
+2025-12-30 12:10:05,303 | INFO | Scraping page 20
+2025-12-30 12:10:05,426 | INFO | Page 20 scraped successfully with 20 records
+2025-12-30 12:10:06,431 | INFO | Processing page 21
+2025-12-30 12:10:06,432 | INFO | Scraping page 21
+2025-12-30 12:10:06,560 | INFO | Page 21 scraped successfully with 20 records
+2025-12-30 12:10:07,563 | INFO | Processing page 22
+2025-12-30 12:10:07,563 | INFO | Scraping page 22
+2025-12-30 12:10:07,683 | INFO | Page 22 scraped successfully with 20 records
+2025-12-30 12:10:08,687 | INFO | Processing page 23
+2025-12-30 12:10:08,687 | INFO | Scraping page 23
+2025-12-30 12:10:08,795 | INFO | Page 23 scraped successfully with 20 records
+2025-12-30 12:10:09,800 | INFO | Processing page 24
+2025-12-30 12:10:09,800 | INFO | Scraping page 24
+2025-12-30 12:10:09,931 | INFO | Page 24 scraped successfully with 20 records
+2025-12-30 12:10:10,936 | INFO | Processing page 25
+2025-12-30 12:10:10,937 | INFO | Scraping page 25
+2025-12-30 12:10:11,066 | INFO | Page 25 scraped successfully with 20 records
+2025-12-30 12:10:12,071 | INFO | Processing page 26
+2025-12-30 12:10:12,071 | INFO | Scraping page 26
+2025-12-30 12:10:12,189 | INFO | Page 26 scraped successfully with 20 records
+2025-12-30 12:10:13,194 | INFO | Processing page 27
+2025-12-30 12:10:13,195 | INFO | Scraping page 27
+2025-12-30 12:10:13,314 | INFO | Page 27 scraped successfully with 20 records
+2025-12-30 12:10:14,320 | INFO | Processing page 28
+2025-12-30 12:10:14,320 | INFO | Scraping page 28
+2025-12-30 12:10:14,454 | INFO | Page 28 scraped successfully with 20 records
+2025-12-30 12:10:15,459 | INFO | Processing page 29
+2025-12-30 12:10:15,459 | INFO | Scraping page 29
+2025-12-30 12:10:15,577 | INFO | Page 29 scraped successfully with 20 records
+2025-12-30 12:10:16,582 | INFO | Processing page 30
+2025-12-30 12:10:16,583 | INFO | Scraping page 30
+2025-12-30 12:10:16,710 | INFO | Page 30 scraped successfully with 20 records
+2025-12-30 12:10:17,715 | INFO | Processing page 31
+2025-12-30 12:10:17,715 | INFO | Scraping page 31
+2025-12-30 12:10:17,876 | INFO | Page 31 scraped successfully with 20 records
+2025-12-30 12:10:18,881 | INFO | Processing page 32
+2025-12-30 12:10:18,882 | INFO | Scraping page 32
+2025-12-30 12:10:19,010 | INFO | Page 32 scraped successfully with 20 records
+2025-12-30 12:10:20,016 | INFO | Processing page 33
+2025-12-30 12:10:20,016 | INFO | Scraping page 33
+2025-12-30 12:10:20,133 | INFO | Page 33 scraped successfully with 20 records
+2025-12-30 12:10:21,138 | INFO | Processing page 34
+2025-12-30 12:10:21,139 | INFO | Scraping page 34
+2025-12-30 12:10:21,269 | INFO | Page 34 scraped successfully with 20 records
+2025-12-30 12:10:22,274 | INFO | Processing page 35
+2025-12-30 12:10:22,275 | INFO | Scraping page 35
+2025-12-30 12:10:22,399 | INFO | Page 35 scraped successfully with 20 records
+2025-12-30 12:10:23,405 | INFO | Processing page 36
+2025-12-30 12:10:23,405 | INFO | Scraping page 36
+2025-12-30 12:10:23,538 | INFO | Page 36 scraped successfully with 20 records
+2025-12-30 12:10:24,543 | INFO | Processing page 37
+2025-12-30 12:10:24,543 | INFO | Scraping page 37
+2025-12-30 12:10:24,657 | INFO | Page 37 scraped successfully with 20 records
+2025-12-30 12:10:25,662 | INFO | Processing page 38
+2025-12-30 12:10:25,663 | INFO | Scraping page 38
+2025-12-30 12:10:25,789 | INFO | Page 38 scraped successfully with 20 records
+2025-12-30 12:10:26,796 | INFO | Processing page 39
+2025-12-30 12:10:26,796 | INFO | Scraping page 39
+2025-12-30 12:10:26,922 | INFO | Page 39 scraped successfully with 20 records
+2025-12-30 12:10:27,928 | INFO | Processing page 40
+2025-12-30 12:10:27,928 | INFO | Scraping page 40
+2025-12-30 12:10:28,054 | INFO | Page 40 scraped successfully with 20 records
+2025-12-30 12:10:29,060 | INFO | Processing page 41
+2025-12-30 12:10:29,060 | INFO | Scraping page 41
+2025-12-30 12:10:29,193 | INFO | Page 41 scraped successfully with 20 records
+2025-12-30 12:10:30,198 | INFO | Processing page 42
+2025-12-30 12:10:30,199 | INFO | Scraping page 42
+2025-12-30 12:10:30,320 | INFO | Page 42 scraped successfully with 20 records
+2025-12-30 12:10:31,326 | INFO | Processing page 43
+2025-12-30 12:10:31,326 | INFO | Scraping page 43
+2025-12-30 12:10:31,458 | INFO | Page 43 scraped successfully with 20 records
+2025-12-30 12:10:32,463 | INFO | Processing page 44
+2025-12-30 12:10:32,464 | INFO | Scraping page 44
+2025-12-30 12:10:32,590 | INFO | Page 44 scraped successfully with 20 records
+2025-12-30 12:10:33,595 | INFO | Processing page 45
+2025-12-30 12:10:33,595 | INFO | Scraping page 45
+2025-12-30 12:10:33,703 | INFO | Page 45 scraped successfully with 20 records
+2025-12-30 12:10:34,708 | INFO | Processing page 46
+2025-12-30 12:10:34,708 | INFO | Scraping page 46
+2025-12-30 12:10:34,830 | INFO | Page 46 scraped successfully with 20 records
+2025-12-30 12:10:35,836 | INFO | Processing page 47
+2025-12-30 12:10:35,836 | INFO | Scraping page 47
+2025-12-30 12:10:35,960 | INFO | Page 47 scraped successfully with 20 records
+2025-12-30 12:10:36,966 | INFO | Processing page 48
+2025-12-30 12:10:36,966 | INFO | Scraping page 48
+2025-12-30 12:10:37,085 | INFO | Page 48 scraped successfully with 20 records
+2025-12-30 12:10:38,090 | INFO | Processing page 49
+2025-12-30 12:10:38,091 | INFO | Scraping page 49
+2025-12-30 12:10:38,210 | INFO | Page 49 scraped successfully with 20 records
+2025-12-30 12:10:39,215 | INFO | Processing page 50
+2025-12-30 12:10:39,216 | INFO | Scraping page 50
+2025-12-30 12:10:39,332 | INFO | Page 50 scraped successfully with 20 records
+2025-12-30 12:10:40,338 | INFO | Processing page 51
+2025-12-30 12:10:40,338 | INFO | Scraping page 51
+2025-12-30 12:10:40,467 | INFO | Page 51 scraped successfully with 20 records
+2025-12-30 12:10:41,472 | INFO | Processing page 52
+2025-12-30 12:10:41,473 | INFO | Scraping page 52
+2025-12-30 12:10:41,594 | INFO | Page 52 scraped successfully with 20 records
+2025-12-30 12:10:42,599 | INFO | Processing page 53
+2025-12-30 12:10:42,600 | INFO | Scraping page 53
+2025-12-30 12:10:42,730 | INFO | Page 53 scraped successfully with 20 records
+2025-12-30 12:10:43,735 | INFO | Processing page 54
+2025-12-30 12:10:43,736 | INFO | Scraping page 54
+2025-12-30 12:10:43,858 | INFO | Page 54 scraped successfully with 20 records
+2025-12-30 12:10:44,864 | INFO | Processing page 55
+2025-12-30 12:10:44,864 | INFO | Scraping page 55
+2025-12-30 12:10:44,992 | INFO | Page 55 scraped successfully with 20 records
+2025-12-30 12:10:45,997 | INFO | Processing page 56
+2025-12-30 12:10:45,998 | INFO | Scraping page 56
+2025-12-30 12:10:46,129 | INFO | Page 56 scraped successfully with 20 records
+2025-12-30 12:10:47,134 | INFO | Processing page 57
+2025-12-30 12:10:47,134 | INFO | Scraping page 57
+2025-12-30 12:10:47,254 | INFO | Page 57 scraped successfully with 20 records
+2025-12-30 12:10:48,259 | INFO | Processing page 58
+2025-12-30 12:10:48,260 | INFO | Scraping page 58
+2025-12-30 12:10:48,388 | INFO | Page 58 scraped successfully with 20 records
+2025-12-30 12:10:49,393 | INFO | Processing page 59
+2025-12-30 12:10:49,394 | INFO | Scraping page 59
+2025-12-30 12:10:49,515 | INFO | Page 59 scraped successfully with 20 records
+2025-12-30 12:10:50,520 | INFO | Processing page 60
+2025-12-30 12:10:50,521 | INFO | Scraping page 60
+2025-12-30 12:10:50,652 | INFO | Page 60 scraped successfully with 20 records
+2025-12-30 12:10:51,654 | INFO | Processing page 61
+2025-12-30 12:10:51,655 | INFO | Scraping page 61
+2025-12-30 12:10:51,774 | INFO | Page 61 scraped successfully with 20 records
+2025-12-30 12:10:52,779 | INFO | Processing page 62
+2025-12-30 12:10:52,779 | INFO | Scraping page 62
+2025-12-30 12:10:52,950 | INFO | Page 62 scraped successfully with 20 records
+2025-12-30 12:10:53,956 | INFO | Processing page 63
+2025-12-30 12:10:53,956 | INFO | Scraping page 63
+2025-12-30 12:10:54,081 | INFO | Page 63 scraped successfully with 20 records
+2025-12-30 12:10:55,086 | INFO | Processing page 64
+2025-12-30 12:10:55,087 | INFO | Scraping page 64
+2025-12-30 12:10:55,203 | INFO | Page 64 scraped successfully with 20 records
+2025-12-30 12:10:56,209 | INFO | Processing page 65
+2025-12-30 12:10:56,209 | INFO | Scraping page 65
+2025-12-30 12:10:56,320 | INFO | Page 65 scraped successfully with 20 records
+2025-12-30 12:10:57,321 | INFO | Processing page 66
+2025-12-30 12:10:57,321 | INFO | Scraping page 66
+2025-12-30 12:10:57,455 | INFO | Page 66 scraped successfully with 20 records
+2025-12-30 12:10:58,460 | INFO | Processing page 67
+2025-12-30 12:10:58,461 | INFO | Scraping page 67
+2025-12-30 12:10:58,578 | INFO | Page 67 scraped successfully with 20 records
+2025-12-30 12:10:59,583 | INFO | Processing page 68
+2025-12-30 12:10:59,583 | INFO | Scraping page 68
+2025-12-30 12:10:59,721 | INFO | Page 68 scraped successfully with 20 records
+2025-12-30 12:11:00,726 | INFO | Processing page 69
+2025-12-30 12:11:00,727 | INFO | Scraping page 69
+2025-12-30 12:11:00,838 | INFO | Page 69 scraped successfully with 20 records
+2025-12-30 12:11:01,843 | INFO | Processing page 70
+2025-12-30 12:11:01,843 | INFO | Scraping page 70
+2025-12-30 12:11:01,970 | INFO | Page 70 scraped successfully with 20 records
+2025-12-30 12:11:02,975 | INFO | Processing page 71
+2025-12-30 12:11:02,976 | INFO | Scraping page 71
+2025-12-30 12:11:03,096 | INFO | Page 71 scraped successfully with 20 records
+2025-12-30 12:11:04,101 | INFO | Processing page 72
+2025-12-30 12:11:04,102 | INFO | Scraping page 72
+2025-12-30 12:11:04,213 | INFO | Page 72 scraped successfully with 20 records
+2025-12-30 12:11:05,218 | INFO | Processing page 73
+2025-12-30 12:11:05,218 | INFO | Scraping page 73
+2025-12-30 12:11:05,331 | INFO | Page 73 scraped successfully with 20 records
+2025-12-30 12:11:06,337 | INFO | Processing page 74
+2025-12-30 12:11:06,337 | INFO | Scraping page 74
+2025-12-30 12:11:06,446 | INFO | Page 74 scraped successfully with 20 records
+2025-12-30 12:11:07,447 | INFO | Processing page 75
+2025-12-30 12:11:07,448 | INFO | Scraping page 75
+2025-12-30 12:11:07,562 | INFO | Page 75 scraped successfully with 20 records
+2025-12-30 12:11:08,567 | INFO | Processing page 76
+2025-12-30 12:11:08,567 | INFO | Scraping page 76
+2025-12-30 12:11:08,742 | INFO | Page 76 scraped successfully with 20 records
+2025-12-30 12:11:09,744 | INFO | Processing page 77
+2025-12-30 12:11:09,745 | INFO | Scraping page 77
+2025-12-30 12:11:09,859 | INFO | Page 77 scraped successfully with 20 records
+2025-12-30 12:11:10,864 | INFO | Processing page 78
+2025-12-30 12:11:10,865 | INFO | Scraping page 78
+2025-12-30 12:11:10,993 | INFO | Page 78 scraped successfully with 20 records
+2025-12-30 12:11:11,999 | INFO | Processing page 79
+2025-12-30 12:11:11,999 | INFO | Scraping page 79
+2025-12-30 12:11:12,124 | INFO | Page 79 scraped successfully with 20 records
+2025-12-30 12:11:13,129 | INFO | Processing page 80
+2025-12-30 12:11:13,130 | INFO | Scraping page 80
+2025-12-30 12:11:13,250 | INFO | Page 80 scraped successfully with 20 records
+2025-12-30 12:11:14,255 | INFO | Processing page 81
+2025-12-30 12:11:14,256 | INFO | Scraping page 81
+2025-12-30 12:11:14,386 | INFO | Page 81 scraped successfully with 20 records
+2025-12-30 12:11:15,392 | INFO | Processing page 82
+2025-12-30 12:11:15,392 | INFO | Scraping page 82
+2025-12-30 12:11:15,518 | INFO | Page 82 scraped successfully with 20 records
+2025-12-30 12:11:16,523 | INFO | Processing page 83
+2025-12-30 12:11:16,523 | INFO | Scraping page 83
+2025-12-30 12:11:16,650 | INFO | Page 83 scraped successfully with 20 records
+2025-12-30 12:11:17,655 | INFO | Processing page 84
+2025-12-30 12:11:17,655 | INFO | Scraping page 84
+2025-12-30 12:11:17,781 | INFO | Page 84 scraped successfully with 20 records
+2025-12-30 12:11:18,786 | INFO | Processing page 85
+2025-12-30 12:11:18,786 | INFO | Scraping page 85
+2025-12-30 12:11:18,908 | INFO | Page 85 scraped successfully with 20 records
+2025-12-30 12:11:19,913 | INFO | Processing page 86
+2025-12-30 12:11:19,914 | INFO | Scraping page 86
+2025-12-30 12:11:20,034 | INFO | Page 86 scraped successfully with 20 records
+2025-12-30 12:11:21,040 | INFO | Processing page 87
+2025-12-30 12:11:21,040 | INFO | Scraping page 87
+2025-12-30 12:11:21,157 | INFO | Page 87 scraped successfully with 20 records
+2025-12-30 12:11:22,163 | INFO | Processing page 88
+2025-12-30 12:11:22,163 | INFO | Scraping page 88
+2025-12-30 12:11:22,286 | INFO | Page 88 scraped successfully with 20 records
+2025-12-30 12:11:23,288 | INFO | Processing page 89
+2025-12-30 12:11:23,288 | INFO | Scraping page 89
+2025-12-30 12:11:23,407 | INFO | Page 89 scraped successfully with 20 records
+2025-12-30 12:11:24,412 | INFO | Processing page 90
+2025-12-30 12:11:24,413 | INFO | Scraping page 90
+2025-12-30 12:11:24,535 | INFO | Page 90 scraped successfully with 20 records
+2025-12-30 12:11:25,539 | INFO | Processing page 91
+2025-12-30 12:11:25,539 | INFO | Scraping page 91
+2025-12-30 12:11:25,656 | INFO | Page 91 scraped successfully with 20 records
+2025-12-30 12:11:26,659 | INFO | Processing page 92
+2025-12-30 12:11:26,659 | INFO | Scraping page 92
+2025-12-30 12:11:26,768 | INFO | Page 92 scraped successfully with 20 records
+2025-12-30 12:11:27,774 | INFO | Processing page 93
+2025-12-30 12:11:27,774 | INFO | Scraping page 93
+2025-12-30 12:11:27,916 | INFO | Page 93 scraped successfully with 20 records
+2025-12-30 12:11:28,922 | INFO | Processing page 94
+2025-12-30 12:11:28,922 | INFO | Scraping page 94
+2025-12-30 12:11:29,049 | INFO | Page 94 scraped successfully with 20 records
+2025-12-30 12:11:30,054 | INFO | Processing page 95
+2025-12-30 12:11:30,055 | INFO | Scraping page 95
+2025-12-30 12:11:30,172 | INFO | Page 95 scraped successfully with 20 records
+2025-12-30 12:11:31,178 | INFO | Processing page 96
+2025-12-30 12:11:31,178 | INFO | Scraping page 96
+2025-12-30 12:11:31,291 | INFO | Page 96 scraped successfully with 20 records
+2025-12-30 12:11:32,295 | INFO | Processing page 97
+2025-12-30 12:11:32,295 | INFO | Scraping page 97
+2025-12-30 12:11:32,408 | INFO | Page 97 scraped successfully with 20 records
+2025-12-30 12:11:33,413 | INFO | Processing page 98
+2025-12-30 12:11:33,413 | INFO | Scraping page 98
+2025-12-30 12:11:33,549 | INFO | Page 98 scraped successfully with 20 records
+2025-12-30 12:11:34,554 | INFO | Processing page 99
+2025-12-30 12:11:34,554 | INFO | Scraping page 99
+2025-12-30 12:11:34,665 | INFO | Page 99 scraped successfully with 20 records
+2025-12-30 12:11:35,670 | INFO | Processing page 100
+2025-12-30 12:11:35,671 | INFO | Scraping page 100
+2025-12-30 12:11:35,789 | INFO | Page 100 scraped successfully with 20 records
+2025-12-30 12:11:36,794 | INFO | Processing page 101
+2025-12-30 12:11:36,794 | INFO | Scraping page 101
+2025-12-30 12:11:36,910 | INFO | Page 101 scraped successfully with 20 records
+2025-12-30 12:11:37,915 | INFO | Processing page 102
+2025-12-30 12:11:37,915 | INFO | Scraping page 102
+2025-12-30 12:11:38,036 | INFO | Page 102 scraped successfully with 20 records
+2025-12-30 12:11:39,042 | INFO | Processing page 103
+2025-12-30 12:11:39,042 | INFO | Scraping page 103
+2025-12-30 12:11:39,162 | INFO | Page 103 scraped successfully with 20 records
+2025-12-30 12:11:40,167 | INFO | Processing page 104
+2025-12-30 12:11:40,167 | INFO | Scraping page 104
+2025-12-30 12:11:40,286 | INFO | Page 104 scraped successfully with 20 records
+2025-12-30 12:11:41,291 | INFO | Processing page 105
+2025-12-30 12:11:41,291 | INFO | Scraping page 105
+2025-12-30 12:11:41,404 | INFO | Page 105 scraped successfully with 20 records
+2025-12-30 12:11:42,405 | INFO | Processing page 106
+2025-12-30 12:11:42,405 | INFO | Scraping page 106
+2025-12-30 12:11:42,595 | INFO | Page 106 scraped successfully with 20 records
+2025-12-30 12:11:43,600 | INFO | Processing page 107
+2025-12-30 12:11:43,600 | INFO | Scraping page 107
+2025-12-30 12:11:43,722 | INFO | Page 107 scraped successfully with 20 records
+2025-12-30 12:11:44,727 | INFO | Processing page 108
+2025-12-30 12:11:44,728 | INFO | Scraping page 108
+2025-12-30 12:11:44,847 | INFO | Page 108 scraped successfully with 20 records
+2025-12-30 12:11:45,848 | INFO | Processing page 109
+2025-12-30 12:11:45,849 | INFO | Scraping page 109
+2025-12-30 12:11:45,963 | INFO | Page 109 scraped successfully with 20 records
+2025-12-30 12:11:46,969 | INFO | Processing page 110
+2025-12-30 12:11:46,969 | INFO | Scraping page 110
+2025-12-30 12:11:47,106 | INFO | Page 110 scraped successfully with 20 records
+2025-12-30 12:11:48,111 | INFO | Processing page 111
+2025-12-30 12:11:48,111 | INFO | Scraping page 111
+2025-12-30 12:11:48,230 | INFO | Page 111 scraped successfully with 20 records
+2025-12-30 12:11:49,235 | INFO | Processing page 112
+2025-12-30 12:11:49,236 | INFO | Scraping page 112
+2025-12-30 12:11:49,360 | INFO | Page 112 scraped successfully with 20 records
+2025-12-30 12:11:50,366 | INFO | Processing page 113
+2025-12-30 12:11:50,366 | INFO | Scraping page 113
+2025-12-30 12:11:50,495 | INFO | Page 113 scraped successfully with 20 records
+2025-12-30 12:11:51,500 | INFO | Processing page 114
+2025-12-30 12:11:51,500 | INFO | Scraping page 114
+2025-12-30 12:11:51,645 | INFO | Page 114 scraped successfully with 20 records
+2025-12-30 12:11:52,651 | INFO | Processing page 115
+2025-12-30 12:11:52,651 | INFO | Scraping page 115
+2025-12-30 12:11:52,818 | INFO | Page 115 scraped successfully with 20 records
+2025-12-30 12:11:53,824 | INFO | Processing page 116
+2025-12-30 12:11:53,824 | INFO | Scraping page 116
+2025-12-30 12:11:53,958 | INFO | Page 116 scraped successfully with 20 records
+2025-12-30 12:11:54,963 | INFO | Processing page 117
+2025-12-30 12:11:54,963 | INFO | Scraping page 117
+2025-12-30 12:11:55,083 | INFO | Page 117 scraped successfully with 20 records
+2025-12-30 12:11:56,088 | INFO | Processing page 118
+2025-12-30 12:11:56,088 | INFO | Scraping page 118
+2025-12-30 12:11:56,224 | INFO | Page 118 scraped successfully with 20 records
+2025-12-30 12:11:57,229 | INFO | Processing page 119
+2025-12-30 12:11:57,229 | INFO | Scraping page 119
+2025-12-30 12:11:57,485 | INFO | Page 119 scraped successfully with 20 records
+2025-12-30 12:11:58,490 | INFO | Processing page 120
+2025-12-30 12:11:58,491 | INFO | Scraping page 120
+2025-12-30 12:11:58,686 | INFO | Page 120 scraped successfully with 20 records
+2025-12-30 12:11:59,691 | INFO | Processing page 121
+2025-12-30 12:11:59,691 | INFO | Scraping page 121
+2025-12-30 12:11:59,815 | INFO | Page 121 scraped successfully with 20 records
+2025-12-30 12:12:00,819 | INFO | Processing page 122
+2025-12-30 12:12:00,820 | INFO | Scraping page 122
+2025-12-30 12:12:00,940 | INFO | Page 122 scraped successfully with 20 records
+2025-12-30 12:12:01,945 | INFO | Processing page 123
+2025-12-30 12:12:01,945 | INFO | Scraping page 123
+2025-12-30 12:12:02,065 | INFO | Page 123 scraped successfully with 20 records
+2025-12-30 12:12:03,070 | INFO | Processing page 124
+2025-12-30 12:12:03,070 | INFO | Scraping page 124
+2025-12-30 12:12:03,195 | INFO | Page 124 scraped successfully with 20 records
+2025-12-30 12:12:04,200 | INFO | Processing page 125
+2025-12-30 12:12:04,200 | INFO | Scraping page 125
+2025-12-30 12:12:04,327 | INFO | Page 125 scraped successfully with 20 records
+2025-12-30 12:12:05,332 | INFO | Processing page 126
+2025-12-30 12:12:05,333 | INFO | Scraping page 126
+2025-12-30 12:12:05,549 | INFO | Page 126 scraped successfully with 20 records
+2025-12-30 12:12:06,555 | INFO | Processing page 127
+2025-12-30 12:12:06,555 | INFO | Scraping page 127
+2025-12-30 12:12:06,686 | INFO | Page 127 scraped successfully with 20 records
+2025-12-30 12:12:07,691 | INFO | Processing page 128
+2025-12-30 12:12:07,692 | INFO | Scraping page 128
+2025-12-30 12:12:07,834 | INFO | Page 128 scraped successfully with 20 records
+2025-12-30 12:12:08,839 | INFO | Processing page 129
+2025-12-30 12:12:08,840 | INFO | Scraping page 129
+2025-12-30 12:12:08,964 | INFO | Page 129 scraped successfully with 20 records
+2025-12-30 12:12:09,969 | INFO | Processing page 130
+2025-12-30 12:12:09,970 | INFO | Scraping page 130
+2025-12-30 12:12:10,104 | INFO | Page 130 scraped successfully with 20 records
+2025-12-30 12:12:11,109 | INFO | Processing page 131
+2025-12-30 12:12:11,110 | INFO | Scraping page 131
+2025-12-30 12:12:11,237 | INFO | Page 131 scraped successfully with 20 records
+2025-12-30 12:12:12,242 | INFO | Processing page 132
+2025-12-30 12:12:12,243 | INFO | Scraping page 132
+2025-12-30 12:12:12,376 | INFO | Page 132 scraped successfully with 20 records
+2025-12-30 12:12:13,381 | INFO | Processing page 133
+2025-12-30 12:12:13,382 | INFO | Scraping page 133
+2025-12-30 12:12:13,505 | INFO | Page 133 scraped successfully with 20 records
+2025-12-30 12:12:14,510 | INFO | Processing page 134
+2025-12-30 12:12:14,510 | INFO | Scraping page 134
+2025-12-30 12:12:14,628 | INFO | Page 134 scraped successfully with 20 records
+2025-12-30 12:12:15,634 | INFO | Processing page 135
+2025-12-30 12:12:15,634 | INFO | Scraping page 135
+2025-12-30 12:12:15,758 | INFO | Page 135 scraped successfully with 20 records
+2025-12-30 12:12:16,763 | INFO | Processing page 136
+2025-12-30 12:12:16,764 | INFO | Scraping page 136
+2025-12-30 12:12:16,888 | INFO | Page 136 scraped successfully with 20 records
+2025-12-30 12:12:17,893 | INFO | Processing page 137
+2025-12-30 12:12:17,894 | INFO | Scraping page 137
+2025-12-30 12:12:18,025 | INFO | Page 137 scraped successfully with 20 records
+2025-12-30 12:12:19,029 | INFO | Processing page 138
+2025-12-30 12:12:19,029 | INFO | Scraping page 138
+2025-12-30 12:12:19,163 | INFO | Page 138 scraped successfully with 20 records
+2025-12-30 12:12:20,168 | INFO | Processing page 139
+2025-12-30 12:12:20,169 | INFO | Scraping page 139
+2025-12-30 12:12:20,308 | INFO | Page 139 scraped successfully with 20 records
+2025-12-30 12:12:21,313 | INFO | Processing page 140
+2025-12-30 12:12:21,314 | INFO | Scraping page 140
+2025-12-30 12:12:21,444 | INFO | Page 140 scraped successfully with 20 records
+2025-12-30 12:12:22,445 | INFO | Processing page 141
+2025-12-30 12:12:22,446 | INFO | Scraping page 141
+2025-12-30 12:12:22,573 | INFO | Page 141 scraped successfully with 20 records
+2025-12-30 12:12:23,578 | INFO | Processing page 142
+2025-12-30 12:12:23,578 | INFO | Scraping page 142
+2025-12-30 12:12:23,717 | INFO | Page 142 scraped successfully with 20 records
+2025-12-30 12:12:24,722 | INFO | Processing page 143
+2025-12-30 12:12:24,723 | INFO | Scraping page 143
+2025-12-30 12:12:24,850 | INFO | Page 143 scraped successfully with 20 records
+2025-12-30 12:12:25,855 | INFO | Processing page 144
+2025-12-30 12:12:25,855 | INFO | Scraping page 144
+2025-12-30 12:12:25,985 | INFO | Page 144 scraped successfully with 20 records
+2025-12-30 12:12:26,990 | INFO | Processing page 145
+2025-12-30 12:12:26,991 | INFO | Scraping page 145
+2025-12-30 12:12:27,112 | INFO | Page 145 scraped successfully with 20 records
+2025-12-30 12:12:28,117 | INFO | Processing page 146
+2025-12-30 12:12:28,117 | INFO | Scraping page 146
+2025-12-30 12:12:28,241 | INFO | Page 146 scraped successfully with 20 records
+2025-12-30 12:12:29,247 | INFO | Processing page 147
+2025-12-30 12:12:29,247 | INFO | Scraping page 147
+2025-12-30 12:12:29,355 | INFO | Page 147 scraped successfully with 20 records
+2025-12-30 12:12:30,361 | INFO | Processing page 148
+2025-12-30 12:12:30,361 | INFO | Scraping page 148
+2025-12-30 12:12:30,474 | INFO | Page 148 scraped successfully with 20 records
+2025-12-30 12:12:31,479 | INFO | Processing page 149
+2025-12-30 12:12:31,479 | INFO | Scraping page 149
+2025-12-30 12:12:31,592 | INFO | Page 149 scraped successfully with 20 records
+2025-12-30 12:12:32,597 | INFO | Processing page 150
+2025-12-30 12:12:32,597 | INFO | Scraping page 150
+2025-12-30 12:12:32,710 | INFO | Page 150 scraped successfully with 20 records
+2025-12-30 12:12:33,715 | INFO | Processing page 151
+2025-12-30 12:12:33,715 | INFO | Scraping page 151
+2025-12-30 12:12:33,848 | INFO | Page 151 scraped successfully with 20 records
+2025-12-30 12:12:34,853 | INFO | Processing page 152
+2025-12-30 12:12:34,853 | INFO | Scraping page 152
+2025-12-30 12:12:34,972 | INFO | Page 152 scraped successfully with 20 records
+2025-12-30 12:12:35,977 | INFO | Processing page 153
+2025-12-30 12:12:35,978 | INFO | Scraping page 153
+2025-12-30 12:12:36,088 | INFO | Page 153 scraped successfully with 20 records
+2025-12-30 12:12:37,093 | INFO | Processing page 154
+2025-12-30 12:12:37,093 | INFO | Scraping page 154
+2025-12-30 12:12:37,184 | INFO | Page 154 scraped successfully with 2 records
+2025-12-30 12:12:38,189 | INFO | Processing page 155
+2025-12-30 12:12:38,189 | INFO | Scraping page 155
+2025-12-30 12:12:38,272 | ERROR | Network error on page 155: 404 Client Error: Not Found for url: https://ibbi.gov.in/resolution-plans?page=155
+2025-12-30 12:12:38,272 | WARNING | Empty data on page 155, retrying once
+2025-12-30 12:12:38,272 | INFO | Scraping page 155
+2025-12-30 12:12:38,338 | ERROR | Network error on page 155: 404 Client Error: Not Found for url: https://ibbi.gov.in/resolution-plans?page=155
+2025-12-30 12:12:38,338 | INFO | Stopping scraper at page 155
+2025-12-30 12:12:38,338 | INFO | Scraping completed. Total records: 3062
+2025-12-30 12:12:38,620 | INFO | Excel file saved successfully: /Users/aditya/Scrapping_ibbi_data/api/../output/ibbi_resolution_plans_2025-12-30_12-09-43.xlsx
+2025-12-30 12:12:38,622 | INFO | 127.0.0.1 - - [30/Dec/2025 12:12:38] "GET /start-scraping HTTP/1.1" 200 -
+2025-12-30 12:14:04,327 | INFO |  * Detected change in '/Users/aditya/Scrapping_ibbi_data/api/app.py', reloading
+2025-12-30 12:14:04,455 | INFO |  * Restarting with stat
+2025-12-30 12:14:04,884 | INFO | Logger initialized on production server
+2025-12-30 12:14:04,909 | WARNING |  * Debugger is active!
+2025-12-30 12:14:04,921 | INFO |  * Debugger PIN: 120-998-675
+2025-12-30 12:14:25,206 | INFO | 127.0.0.1 - - [30/Dec/2025 12:14:25] "GET / HTTP/1.1" 200 -
+2025-12-30 12:14:25,245 | INFO | 127.0.0.1 - - [30/Dec/2025 12:14:25] "GET /favicon.ico HTTP/1.1" 200 -
+2025-12-30 12:17:22,787 | INFO | IBBI Scraper initialized
+2025-12-30 12:17:22,789 | INFO | HTTP session with retry configured
+2025-12-30 12:17:22,789 | INFO | Scraping started
+2025-12-30 12:17:22,789 | INFO | Processing page 1
+2025-12-30 12:17:22,789 | INFO | Scraping page 1
+2025-12-30 12:17:22,995 | INFO | Page 1 scraped successfully with 20 records
+2025-12-30 12:17:24,000 | INFO | Processing page 2
+2025-12-30 12:17:24,001 | INFO | Scraping page 2
+2025-12-30 12:17:24,118 | INFO | Page 2 scraped successfully with 20 records
+2025-12-30 12:17:25,123 | INFO | Processing page 3
+2025-12-30 12:17:25,124 | INFO | Scraping page 3
+2025-12-30 12:17:25,237 | INFO | Page 3 scraped successfully with 20 records
+2025-12-30 12:17:26,243 | INFO | Processing page 4
+2025-12-30 12:17:26,243 | INFO | Scraping page 4
+2025-12-30 12:17:26,347 | INFO | Page 4 scraped successfully with 20 records
+2025-12-30 12:17:27,353 | INFO | Processing page 5
+2025-12-30 12:17:27,353 | INFO | Scraping page 5
+2025-12-30 12:17:27,483 | INFO | Page 5 scraped successfully with 20 records
+2025-12-30 12:17:28,488 | INFO | Processing page 6
+2025-12-30 12:17:28,488 | INFO | Scraping page 6
+2025-12-30 12:17:28,606 | INFO | Page 6 scraped successfully with 20 records
+2025-12-30 12:17:29,611 | INFO | Processing page 7
+2025-12-30 12:17:29,611 | INFO | Scraping page 7
+2025-12-30 12:17:29,978 | INFO | Page 7 scraped successfully with 20 records
+2025-12-30 12:17:30,983 | INFO | Processing page 8
+2025-12-30 12:17:30,983 | INFO | Scraping page 8
+2025-12-30 12:17:31,107 | INFO | Page 8 scraped successfully with 20 records
+2025-12-30 12:17:32,112 | INFO | Processing page 9
+2025-12-30 12:17:32,112 | INFO | Scraping page 9
+2025-12-30 12:17:32,235 | INFO | Page 9 scraped successfully with 20 records
+2025-12-30 12:17:33,240 | INFO | Processing page 10
+2025-12-30 12:17:33,240 | INFO | Scraping page 10
+2025-12-30 12:17:33,359 | INFO | Page 10 scraped successfully with 20 records
+2025-12-30 12:17:34,364 | INFO | Processing page 11
+2025-12-30 12:17:34,364 | INFO | Scraping page 11
+2025-12-30 12:17:34,480 | INFO | Page 11 scraped successfully with 20 records
+2025-12-30 12:17:35,485 | INFO | Processing page 12
+2025-12-30 12:17:35,485 | INFO | Scraping page 12
+2025-12-30 12:17:35,603 | INFO | Page 12 scraped successfully with 20 records
+2025-12-30 12:17:36,609 | INFO | Processing page 13
+2025-12-30 12:17:36,609 | INFO | Scraping page 13
+2025-12-30 12:17:36,743 | INFO | Page 13 scraped successfully with 20 records
+2025-12-30 12:17:37,749 | INFO | Processing page 14
+2025-12-30 12:17:37,749 | INFO | Scraping page 14
+2025-12-30 12:17:37,866 | INFO | Page 14 scraped successfully with 20 records
+2025-12-30 12:17:38,872 | INFO | Processing page 15
+2025-12-30 12:17:38,872 | INFO | Scraping page 15
+2025-12-30 12:17:38,995 | INFO | Page 15 scraped successfully with 20 records
+2025-12-30 12:17:40,000 | INFO | Processing page 16
+2025-12-30 12:17:40,001 | INFO | Scraping page 16
+2025-12-30 12:17:40,118 | INFO | Page 16 scraped successfully with 20 records
+2025-12-30 12:17:41,124 | INFO | Processing page 17
+2025-12-30 12:17:41,124 | INFO | Scraping page 17
+2025-12-30 12:17:41,241 | INFO | Page 17 scraped successfully with 20 records
+2025-12-30 12:17:42,246 | INFO | Processing page 18
+2025-12-30 12:17:42,248 | INFO | Scraping page 18
+2025-12-30 12:17:42,404 | INFO | Page 18 scraped successfully with 20 records
+2025-12-30 12:17:43,409 | INFO | Processing page 19
+2025-12-30 12:17:43,410 | INFO | Scraping page 19
+2025-12-30 12:17:43,524 | INFO | Page 19 scraped successfully with 20 records
+2025-12-30 12:17:44,529 | INFO | Processing page 20
+2025-12-30 12:17:44,529 | INFO | Scraping page 20
+2025-12-30 12:17:44,652 | INFO | Page 20 scraped successfully with 20 records
+2025-12-30 12:17:45,657 | INFO | Processing page 21
+2025-12-30 12:17:45,657 | INFO | Scraping page 21
+2025-12-30 12:17:45,782 | INFO | Page 21 scraped successfully with 20 records
+2025-12-30 12:17:46,788 | INFO | Processing page 22
+2025-12-30 12:17:46,788 | INFO | Scraping page 22
+2025-12-30 12:17:46,909 | INFO | Page 22 scraped successfully with 20 records
+2025-12-30 12:17:47,914 | INFO | Processing page 23
+2025-12-30 12:17:47,915 | INFO | Scraping page 23
+2025-12-30 12:17:48,032 | INFO | Page 23 scraped successfully with 20 records
+2025-12-30 12:17:49,037 | INFO | Processing page 24
+2025-12-30 12:17:49,037 | INFO | Scraping page 24
+2025-12-30 12:17:49,160 | INFO | Page 24 scraped successfully with 20 records
+2025-12-30 12:17:50,165 | INFO | Processing page 25
+2025-12-30 12:17:50,166 | INFO | Scraping page 25
+2025-12-30 12:17:50,285 | INFO | Page 25 scraped successfully with 20 records
+2025-12-30 12:17:51,290 | INFO | Processing page 26
+2025-12-30 12:17:51,290 | INFO | Scraping page 26
+2025-12-30 12:17:51,402 | INFO | Page 26 scraped successfully with 20 records
+2025-12-30 12:17:52,407 | INFO | Processing page 27
+2025-12-30 12:17:52,408 | INFO | Scraping page 27
+2025-12-30 12:17:52,531 | INFO | Page 27 scraped successfully with 20 records
+2025-12-30 12:17:53,537 | INFO | Processing page 28
+2025-12-30 12:17:53,537 | INFO | Scraping page 28
+2025-12-30 12:17:53,658 | INFO | Page 28 scraped successfully with 20 records
+2025-12-30 12:17:54,663 | INFO | Processing page 29
+2025-12-30 12:17:54,664 | INFO | Scraping page 29
+2025-12-30 12:17:54,774 | INFO | Page 29 scraped successfully with 20 records
+2025-12-30 12:17:55,779 | INFO | Processing page 30
+2025-12-30 12:17:55,780 | INFO | Scraping page 30
+2025-12-30 12:17:55,902 | INFO | Page 30 scraped successfully with 20 records
+2025-12-30 12:17:56,907 | INFO | Processing page 31
+2025-12-30 12:17:56,908 | INFO | Scraping page 31
+2025-12-30 12:17:57,024 | INFO | Page 31 scraped successfully with 20 records
+2025-12-30 12:17:58,029 | INFO | Processing page 32
+2025-12-30 12:17:58,031 | INFO | Scraping page 32
+2025-12-30 12:17:58,145 | INFO | Page 32 scraped successfully with 20 records
+2025-12-30 12:17:59,150 | INFO | Processing page 33
+2025-12-30 12:17:59,150 | INFO | Scraping page 33
+2025-12-30 12:17:59,268 | INFO | Page 33 scraped successfully with 20 records
+2025-12-30 12:18:00,273 | INFO | Processing page 34
+2025-12-30 12:18:00,273 | INFO | Scraping page 34
+2025-12-30 12:18:00,387 | INFO | Page 34 scraped successfully with 20 records
+2025-12-30 12:18:01,392 | INFO | Processing page 35
+2025-12-30 12:18:01,393 | INFO | Scraping page 35
+2025-12-30 12:18:01,508 | INFO | Page 35 scraped successfully with 20 records
+2025-12-30 12:18:02,513 | INFO | Processing page 36
+2025-12-30 12:18:02,514 | INFO | Scraping page 36
+2025-12-30 12:18:02,631 | INFO | Page 36 scraped successfully with 20 records
+2025-12-30 12:18:03,636 | INFO | Processing page 37
+2025-12-30 12:18:03,637 | INFO | Scraping page 37
+2025-12-30 12:18:03,753 | INFO | Page 37 scraped successfully with 20 records
+2025-12-30 12:18:04,758 | INFO | Processing page 38
+2025-12-30 12:18:04,759 | INFO | Scraping page 38
+2025-12-30 12:18:04,875 | INFO | Page 38 scraped successfully with 20 records
+2025-12-30 12:18:05,881 | INFO | Processing page 39
+2025-12-30 12:18:05,882 | INFO | Scraping page 39
+2025-12-30 12:18:06,014 | INFO | Page 39 scraped successfully with 20 records
+2025-12-30 12:18:07,019 | INFO | Processing page 40
+2025-12-30 12:18:07,020 | INFO | Scraping page 40
+2025-12-30 12:18:07,146 | INFO | Page 40 scraped successfully with 20 records
+2025-12-30 12:18:08,151 | INFO | Processing page 41
+2025-12-30 12:18:08,151 | INFO | Scraping page 41
+2025-12-30 12:18:08,262 | INFO | Page 41 scraped successfully with 20 records
+2025-12-30 12:18:09,267 | INFO | Processing page 42
+2025-12-30 12:18:09,267 | INFO | Scraping page 42
+2025-12-30 12:18:09,388 | INFO | Page 42 scraped successfully with 20 records
+2025-12-30 12:18:10,393 | INFO | Processing page 43
+2025-12-30 12:18:10,394 | INFO | Scraping page 43
+2025-12-30 12:18:10,515 | INFO | Page 43 scraped successfully with 20 records
+2025-12-30 12:18:11,520 | INFO | Processing page 44
+2025-12-30 12:18:11,521 | INFO | Scraping page 44
+2025-12-30 12:18:11,648 | INFO | Page 44 scraped successfully with 20 records
+2025-12-30 12:18:12,653 | INFO | Processing page 45
+2025-12-30 12:18:12,653 | INFO | Scraping page 45
+2025-12-30 12:18:12,768 | INFO | Page 45 scraped successfully with 20 records
+2025-12-30 12:18:13,773 | INFO | Processing page 46
+2025-12-30 12:18:13,774 | INFO | Scraping page 46
+2025-12-30 12:18:13,895 | INFO | Page 46 scraped successfully with 20 records
+2025-12-30 12:18:14,900 | INFO | Processing page 47
+2025-12-30 12:18:14,900 | INFO | Scraping page 47
+2025-12-30 12:18:15,008 | INFO | Page 47 scraped successfully with 20 records
+2025-12-30 12:18:16,013 | INFO | Processing page 48
+2025-12-30 12:18:16,014 | INFO | Scraping page 48
+2025-12-30 12:18:16,143 | INFO | Page 48 scraped successfully with 20 records
+2025-12-30 12:18:17,148 | INFO | Processing page 49
+2025-12-30 12:18:17,148 | INFO | Scraping page 49
+2025-12-30 12:18:17,270 | INFO | Page 49 scraped successfully with 20 records
+2025-12-30 12:18:18,275 | INFO | Processing page 50
+2025-12-30 12:18:18,276 | INFO | Scraping page 50
+2025-12-30 12:18:18,390 | INFO | Page 50 scraped successfully with 20 records
+2025-12-30 12:18:19,396 | INFO | Processing page 51
+2025-12-30 12:18:19,396 | INFO | Scraping page 51
+2025-12-30 12:18:19,518 | INFO | Page 51 scraped successfully with 20 records
+2025-12-30 12:18:20,524 | INFO | Processing page 52
+2025-12-30 12:18:20,524 | INFO | Scraping page 52
+2025-12-30 12:18:20,646 | INFO | Page 52 scraped successfully with 20 records
+2025-12-30 12:18:21,651 | INFO | Processing page 53
+2025-12-30 12:18:21,652 | INFO | Scraping page 53
+2025-12-30 12:18:21,775 | INFO | Page 53 scraped successfully with 20 records
+2025-12-30 12:18:22,780 | INFO | Processing page 54
+2025-12-30 12:18:22,781 | INFO | Scraping page 54
+2025-12-30 12:18:22,899 | INFO | Page 54 scraped successfully with 20 records
+2025-12-30 12:18:23,901 | INFO | Processing page 55
+2025-12-30 12:18:23,902 | INFO | Scraping page 55
+2025-12-30 12:18:24,019 | INFO | Page 55 scraped successfully with 20 records
+2025-12-30 12:18:25,024 | INFO | Processing page 56
+2025-12-30 12:18:25,025 | INFO | Scraping page 56
+2025-12-30 12:18:25,143 | INFO | Page 56 scraped successfully with 20 records
+2025-12-30 12:18:26,149 | INFO | Processing page 57
+2025-12-30 12:18:26,149 | INFO | Scraping page 57
+2025-12-30 12:18:26,257 | INFO | Page 57 scraped successfully with 20 records
+2025-12-30 12:18:27,262 | INFO | Processing page 58
+2025-12-30 12:18:27,262 | INFO | Scraping page 58
+2025-12-30 12:18:27,387 | INFO | Page 58 scraped successfully with 20 records
+2025-12-30 12:18:28,393 | INFO | Processing page 59
+2025-12-30 12:18:28,393 | INFO | Scraping page 59
+2025-12-30 12:18:28,518 | INFO | Page 59 scraped successfully with 20 records
+2025-12-30 12:18:29,523 | INFO | Processing page 60
+2025-12-30 12:18:29,524 | INFO | Scraping page 60
+2025-12-30 12:18:29,637 | INFO | Page 60 scraped successfully with 20 records
+2025-12-30 12:18:30,642 | INFO | Processing page 61
+2025-12-30 12:18:30,642 | INFO | Scraping page 61
+2025-12-30 12:18:30,764 | INFO | Page 61 scraped successfully with 20 records
+2025-12-30 12:18:31,769 | INFO | Processing page 62
+2025-12-30 12:18:31,769 | INFO | Scraping page 62
+2025-12-30 12:18:31,895 | INFO | Page 62 scraped successfully with 20 records
+2025-12-30 12:18:32,900 | INFO | Processing page 63
+2025-12-30 12:18:32,900 | INFO | Scraping page 63
+2025-12-30 12:18:33,021 | INFO | Page 63 scraped successfully with 20 records
+2025-12-30 12:18:34,027 | INFO | Processing page 64
+2025-12-30 12:18:34,027 | INFO | Scraping page 64
+2025-12-30 12:18:34,153 | INFO | Page 64 scraped successfully with 20 records
+2025-12-30 12:18:35,158 | INFO | Processing page 65
+2025-12-30 12:18:35,159 | INFO | Scraping page 65
+2025-12-30 12:18:35,285 | INFO | Page 65 scraped successfully with 20 records
+2025-12-30 12:18:36,290 | INFO | Processing page 66
+2025-12-30 12:18:36,290 | INFO | Scraping page 66
+2025-12-30 12:18:36,409 | INFO | Page 66 scraped successfully with 20 records
+2025-12-30 12:18:37,414 | INFO | Processing page 67
+2025-12-30 12:18:37,414 | INFO | Scraping page 67
+2025-12-30 12:18:37,537 | INFO | Page 67 scraped successfully with 20 records
+2025-12-30 12:18:38,543 | INFO | Processing page 68
+2025-12-30 12:18:38,543 | INFO | Scraping page 68
+2025-12-30 12:18:38,679 | INFO | Page 68 scraped successfully with 20 records
+2025-12-30 12:18:39,684 | INFO | Processing page 69
+2025-12-30 12:18:39,684 | INFO | Scraping page 69
+2025-12-30 12:18:39,810 | INFO | Page 69 scraped successfully with 20 records
+2025-12-30 12:18:40,815 | INFO | Processing page 70
+2025-12-30 12:18:40,815 | INFO | Scraping page 70
+2025-12-30 12:18:40,947 | INFO | Page 70 scraped successfully with 20 records
+2025-12-30 12:18:41,952 | INFO | Processing page 71
+2025-12-30 12:18:41,953 | INFO | Scraping page 71
+2025-12-30 12:18:42,074 | INFO | Page 71 scraped successfully with 20 records
+2025-12-30 12:18:43,079 | INFO | Processing page 72
+2025-12-30 12:18:43,079 | INFO | Scraping page 72
+2025-12-30 12:18:43,199 | INFO | Page 72 scraped successfully with 20 records
+2025-12-30 12:18:44,204 | INFO | Processing page 73
+2025-12-30 12:18:44,204 | INFO | Scraping page 73
+2025-12-30 12:18:44,312 | INFO | Page 73 scraped successfully with 20 records
+2025-12-30 12:18:45,317 | INFO | Processing page 74
+2025-12-30 12:18:45,317 | INFO | Scraping page 74
+2025-12-30 12:18:45,435 | INFO | Page 74 scraped successfully with 20 records
+2025-12-30 12:18:46,440 | INFO | Processing page 75
+2025-12-30 12:18:46,440 | INFO | Scraping page 75
+2025-12-30 12:18:46,551 | INFO | Page 75 scraped successfully with 20 records
+2025-12-30 12:18:47,556 | INFO | Processing page 76
+2025-12-30 12:18:47,557 | INFO | Scraping page 76
+2025-12-30 12:18:47,671 | INFO | Page 76 scraped successfully with 20 records
+2025-12-30 12:18:48,677 | INFO | Processing page 77
+2025-12-30 12:18:48,677 | INFO | Scraping page 77
+2025-12-30 12:18:48,795 | INFO | Page 77 scraped successfully with 20 records
+2025-12-30 12:18:49,800 | INFO | Processing page 78
+2025-12-30 12:18:49,800 | INFO | Scraping page 78
+2025-12-30 12:18:49,923 | INFO | Page 78 scraped successfully with 20 records
+2025-12-30 12:18:50,928 | INFO | Processing page 79
+2025-12-30 12:18:50,928 | INFO | Scraping page 79
+2025-12-30 12:18:51,020 | INFO | Page 79 scraped successfully with 20 records
+2025-12-30 12:18:52,025 | INFO | Processing page 80
+2025-12-30 12:18:52,025 | INFO | Scraping page 80
+2025-12-30 12:18:52,131 | INFO | Page 80 scraped successfully with 20 records
+2025-12-30 12:18:53,137 | INFO | Processing page 81
+2025-12-30 12:18:53,137 | INFO | Scraping page 81
+2025-12-30 12:18:53,259 | INFO | Page 81 scraped successfully with 20 records
+2025-12-30 12:18:54,264 | INFO | Processing page 82
+2025-12-30 12:18:54,264 | INFO | Scraping page 82
+2025-12-30 12:18:54,386 | INFO | Page 82 scraped successfully with 20 records
+2025-12-30 12:18:55,391 | INFO | Processing page 83
+2025-12-30 12:18:55,391 | INFO | Scraping page 83
+2025-12-30 12:18:55,519 | INFO | Page 83 scraped successfully with 20 records
+2025-12-30 12:18:56,524 | INFO | Processing page 84
+2025-12-30 12:18:56,524 | INFO | Scraping page 84
+2025-12-30 12:18:56,645 | INFO | Page 84 scraped successfully with 20 records
+2025-12-30 12:18:57,650 | INFO | Processing page 85
+2025-12-30 12:18:57,651 | INFO | Scraping page 85
+2025-12-30 12:18:57,767 | INFO | Page 85 scraped successfully with 20 records
+2025-12-30 12:18:58,772 | INFO | Processing page 86
+2025-12-30 12:18:58,773 | INFO | Scraping page 86
+2025-12-30 12:18:58,894 | INFO | Page 86 scraped successfully with 20 records
+2025-12-30 12:18:59,900 | INFO | Processing page 87
+2025-12-30 12:18:59,900 | INFO | Scraping page 87
+2025-12-30 12:19:00,019 | INFO | Page 87 scraped successfully with 20 records
+2025-12-30 12:19:01,024 | INFO | Processing page 88
+2025-12-30 12:19:01,025 | INFO | Scraping page 88
+2025-12-30 12:19:01,154 | INFO | Page 88 scraped successfully with 20 records
+2025-12-30 12:19:02,159 | INFO | Processing page 89
+2025-12-30 12:19:02,160 | INFO | Scraping page 89
+2025-12-30 12:19:02,291 | INFO | Page 89 scraped successfully with 20 records
+2025-12-30 12:19:03,296 | INFO | Processing page 90
+2025-12-30 12:19:03,297 | INFO | Scraping page 90
+2025-12-30 12:19:03,435 | INFO | Page 90 scraped successfully with 20 records
+2025-12-30 12:19:04,441 | INFO | Processing page 91
+2025-12-30 12:19:04,441 | INFO | Scraping page 91
+2025-12-30 12:19:04,560 | INFO | Page 91 scraped successfully with 20 records
+2025-12-30 12:19:05,561 | INFO | Processing page 92
+2025-12-30 12:19:05,562 | INFO | Scraping page 92
+2025-12-30 12:19:05,663 | INFO | Page 92 scraped successfully with 20 records
+2025-12-30 12:19:06,668 | INFO | Processing page 93
+2025-12-30 12:19:06,669 | INFO | Scraping page 93
+2025-12-30 12:19:06,833 | INFO | Page 93 scraped successfully with 20 records
+2025-12-30 12:19:07,838 | INFO | Processing page 94
+2025-12-30 12:19:07,839 | INFO | Scraping page 94
+2025-12-30 12:19:07,965 | INFO | Page 94 scraped successfully with 20 records
+2025-12-30 12:19:08,970 | INFO | Processing page 95
+2025-12-30 12:19:08,970 | INFO | Scraping page 95
+2025-12-30 12:19:09,087 | INFO | Page 95 scraped successfully with 20 records
+2025-12-30 12:19:10,093 | INFO | Processing page 96
+2025-12-30 12:19:10,093 | INFO | Scraping page 96
+2025-12-30 12:19:10,210 | INFO | Page 96 scraped successfully with 20 records
+2025-12-30 12:19:11,215 | INFO | Processing page 97
+2025-12-30 12:19:11,215 | INFO | Scraping page 97
+2025-12-30 12:19:11,334 | INFO | Page 97 scraped successfully with 20 records
+2025-12-30 12:19:12,339 | INFO | Processing page 98
+2025-12-30 12:19:12,340 | INFO | Scraping page 98
+2025-12-30 12:19:12,469 | INFO | Page 98 scraped successfully with 20 records
+2025-12-30 12:19:13,474 | INFO | Processing page 99
+2025-12-30 12:19:13,474 | INFO | Scraping page 99
+2025-12-30 12:19:13,594 | INFO | Page 99 scraped successfully with 20 records
+2025-12-30 12:19:14,599 | INFO | Processing page 100
+2025-12-30 12:19:14,599 | INFO | Scraping page 100
+2025-12-30 12:19:14,722 | INFO | Page 100 scraped successfully with 20 records
+2025-12-30 12:19:15,727 | INFO | Processing page 101
+2025-12-30 12:19:15,727 | INFO | Scraping page 101
+2025-12-30 12:19:15,845 | INFO | Page 101 scraped successfully with 20 records
+2025-12-30 12:19:16,850 | INFO | Processing page 102
+2025-12-30 12:19:16,851 | INFO | Scraping page 102
+2025-12-30 12:19:16,978 | INFO | Page 102 scraped successfully with 20 records
+2025-12-30 12:19:17,983 | INFO | Processing page 103
+2025-12-30 12:19:17,983 | INFO | Scraping page 103
+2025-12-30 12:19:18,099 | INFO | Page 103 scraped successfully with 20 records
+2025-12-30 12:19:19,104 | INFO | Processing page 104
+2025-12-30 12:19:19,104 | INFO | Scraping page 104
+2025-12-30 12:19:19,231 | INFO | Page 104 scraped successfully with 20 records
+2025-12-30 12:19:20,236 | INFO | Processing page 105
+2025-12-30 12:19:20,236 | INFO | Scraping page 105
+2025-12-30 12:19:20,345 | INFO | Page 105 scraped successfully with 20 records
+2025-12-30 12:19:21,350 | INFO | Processing page 106
+2025-12-30 12:19:21,350 | INFO | Scraping page 106
+2025-12-30 12:19:21,467 | INFO | Page 106 scraped successfully with 20 records
+2025-12-30 12:19:22,473 | INFO | Processing page 107
+2025-12-30 12:19:22,473 | INFO | Scraping page 107
+2025-12-30 12:19:22,594 | INFO | Page 107 scraped successfully with 20 records
+2025-12-30 12:19:23,599 | INFO | Processing page 108
+2025-12-30 12:19:23,599 | INFO | Scraping page 108
+2025-12-30 12:19:23,733 | INFO | Page 108 scraped successfully with 20 records
+2025-12-30 12:19:24,738 | INFO | Processing page 109
+2025-12-30 12:19:24,738 | INFO | Scraping page 109
+2025-12-30 12:19:24,868 | INFO | Page 109 scraped successfully with 20 records
+2025-12-30 12:19:25,873 | INFO | Processing page 110
+2025-12-30 12:19:25,873 | INFO | Scraping page 110
+2025-12-30 12:19:25,998 | INFO | Page 110 scraped successfully with 20 records
+2025-12-30 12:19:27,004 | INFO | Processing page 111
+2025-12-30 12:19:27,004 | INFO | Scraping page 111
+2025-12-30 12:19:27,109 | INFO | Page 111 scraped successfully with 20 records
+2025-12-30 12:19:28,114 | INFO | Processing page 112
+2025-12-30 12:19:28,115 | INFO | Scraping page 112
+2025-12-30 12:19:28,242 | INFO | Page 112 scraped successfully with 20 records
+2025-12-30 12:19:29,247 | INFO | Processing page 113
+2025-12-30 12:19:29,248 | INFO | Scraping page 113
+2025-12-30 12:19:29,378 | INFO | Page 113 scraped successfully with 20 records
+2025-12-30 12:19:30,383 | INFO | Processing page 114
+2025-12-30 12:19:30,383 | INFO | Scraping page 114
+2025-12-30 12:19:30,502 | INFO | Page 114 scraped successfully with 20 records
+2025-12-30 12:19:31,508 | INFO | Processing page 115
+2025-12-30 12:19:31,508 | INFO | Scraping page 115
+2025-12-30 12:19:31,634 | INFO | Page 115 scraped successfully with 20 records
+2025-12-30 12:19:32,639 | INFO | Processing page 116
+2025-12-30 12:19:32,640 | INFO | Scraping page 116
+2025-12-30 12:19:32,779 | INFO | Page 116 scraped successfully with 20 records
+2025-12-30 12:19:33,784 | INFO | Processing page 117
+2025-12-30 12:19:33,784 | INFO | Scraping page 117
+2025-12-30 12:19:33,923 | INFO | Page 117 scraped successfully with 20 records
+2025-12-30 12:19:34,928 | INFO | Processing page 118
+2025-12-30 12:19:34,928 | INFO | Scraping page 118
+2025-12-30 12:19:35,055 | INFO | Page 118 scraped successfully with 20 records
+2025-12-30 12:19:36,061 | INFO | Processing page 119
+2025-12-30 12:19:36,061 | INFO | Scraping page 119
+2025-12-30 12:19:36,188 | INFO | Page 119 scraped successfully with 20 records
+2025-12-30 12:19:37,194 | INFO | Processing page 120
+2025-12-30 12:19:37,194 | INFO | Scraping page 120
+2025-12-30 12:19:37,313 | INFO | Page 120 scraped successfully with 20 records
+2025-12-30 12:19:38,318 | INFO | Processing page 121
+2025-12-30 12:19:38,319 | INFO | Scraping page 121
+2025-12-30 12:19:38,436 | INFO | Page 121 scraped successfully with 20 records
+2025-12-30 12:19:39,442 | INFO | Processing page 122
+2025-12-30 12:19:39,442 | INFO | Scraping page 122
+2025-12-30 12:19:39,568 | INFO | Page 122 scraped successfully with 20 records
+2025-12-30 12:19:40,573 | INFO | Processing page 123
+2025-12-30 12:19:40,574 | INFO | Scraping page 123
+2025-12-30 12:19:40,693 | INFO | Page 123 scraped successfully with 20 records
+2025-12-30 12:19:41,698 | INFO | Processing page 124
+2025-12-30 12:19:41,698 | INFO | Scraping page 124
+2025-12-30 12:19:41,824 | INFO | Page 124 scraped successfully with 20 records
+2025-12-30 12:19:42,829 | INFO | Processing page 125
+2025-12-30 12:19:42,829 | INFO | Scraping page 125
+2025-12-30 12:19:42,949 | INFO | Page 125 scraped successfully with 20 records
+2025-12-30 12:19:43,954 | INFO | Processing page 126
+2025-12-30 12:19:43,954 | INFO | Scraping page 126
+2025-12-30 12:19:44,077 | INFO | Page 126 scraped successfully with 20 records
+2025-12-30 12:19:45,082 | INFO | Processing page 127
+2025-12-30 12:19:45,082 | INFO | Scraping page 127
+2025-12-30 12:19:45,258 | INFO | Page 127 scraped successfully with 20 records
+2025-12-30 12:19:46,264 | INFO | Processing page 128
+2025-12-30 12:19:46,264 | INFO | Scraping page 128
+2025-12-30 12:19:46,393 | INFO | Page 128 scraped successfully with 20 records
+2025-12-30 12:19:47,398 | INFO | Processing page 129
+2025-12-30 12:19:47,398 | INFO | Scraping page 129
+2025-12-30 12:19:47,530 | INFO | Page 129 scraped successfully with 20 records
+2025-12-30 12:19:48,535 | INFO | Processing page 130
+2025-12-30 12:19:48,535 | INFO | Scraping page 130
+2025-12-30 12:19:48,644 | INFO | Page 130 scraped successfully with 20 records
+2025-12-30 12:19:49,649 | INFO | Processing page 131
+2025-12-30 12:19:49,650 | INFO | Scraping page 131
+2025-12-30 12:19:49,788 | INFO | Page 131 scraped successfully with 20 records
+2025-12-30 12:19:50,794 | INFO | Processing page 132
+2025-12-30 12:19:50,794 | INFO | Scraping page 132
+2025-12-30 12:19:50,929 | INFO | Page 132 scraped successfully with 20 records
+2025-12-30 12:19:51,934 | INFO | Processing page 133
+2025-12-30 12:19:51,934 | INFO | Scraping page 133
+2025-12-30 12:19:52,060 | INFO | Page 133 scraped successfully with 20 records
+2025-12-30 12:19:53,065 | INFO | Processing page 134
+2025-12-30 12:19:53,065 | INFO | Scraping page 134
+2025-12-30 12:19:53,192 | INFO | Page 134 scraped successfully with 20 records
+2025-12-30 12:19:54,197 | INFO | Processing page 135
+2025-12-30 12:19:54,198 | INFO | Scraping page 135
+2025-12-30 12:19:54,374 | INFO | Page 135 scraped successfully with 20 records
+2025-12-30 12:19:55,379 | INFO | Processing page 136
+2025-12-30 12:19:55,379 | INFO | Scraping page 136
+2025-12-30 12:19:55,501 | INFO | Page 136 scraped successfully with 20 records
+2025-12-30 12:19:56,506 | INFO | Processing page 137
+2025-12-30 12:19:56,507 | INFO | Scraping page 137
+2025-12-30 12:19:56,644 | INFO | Page 137 scraped successfully with 20 records
+2025-12-30 12:19:57,649 | INFO | Processing page 138
+2025-12-30 12:19:57,649 | INFO | Scraping page 138
+2025-12-30 12:19:57,780 | INFO | Page 138 scraped successfully with 20 records
+2025-12-30 12:19:58,785 | INFO | Processing page 139
+2025-12-30 12:19:58,786 | INFO | Scraping page 139
+2025-12-30 12:19:58,916 | INFO | Page 139 scraped successfully with 20 records
+2025-12-30 12:19:59,921 | INFO | Processing page 140
+2025-12-30 12:19:59,921 | INFO | Scraping page 140
+2025-12-30 12:20:00,058 | INFO | Page 140 scraped successfully with 20 records
+2025-12-30 12:20:01,063 | INFO | Processing page 141
+2025-12-30 12:20:01,064 | INFO | Scraping page 141
+2025-12-30 12:20:01,186 | INFO | Page 141 scraped successfully with 20 records
+2025-12-30 12:20:02,192 | INFO | Processing page 142
+2025-12-30 12:20:02,192 | INFO | Scraping page 142
+2025-12-30 12:20:02,314 | INFO | Page 142 scraped successfully with 20 records
+2025-12-30 12:20:03,318 | INFO | Processing page 143
+2025-12-30 12:20:03,318 | INFO | Scraping page 143
+2025-12-30 12:20:03,431 | INFO | Page 143 scraped successfully with 20 records
+2025-12-30 12:20:04,435 | INFO | Processing page 144
+2025-12-30 12:20:04,435 | INFO | Scraping page 144
+2025-12-30 12:20:04,552 | INFO | Page 144 scraped successfully with 20 records
+2025-12-30 12:20:05,557 | INFO | Processing page 145
+2025-12-30 12:20:05,558 | INFO | Scraping page 145
+2025-12-30 12:20:05,680 | INFO | Page 145 scraped successfully with 20 records
+2025-12-30 12:20:06,685 | INFO | Processing page 146
+2025-12-30 12:20:06,685 | INFO | Scraping page 146
+2025-12-30 12:20:06,807 | INFO | Page 146 scraped successfully with 20 records
+2025-12-30 12:20:07,812 | INFO | Processing page 147
+2025-12-30 12:20:07,813 | INFO | Scraping page 147
+2025-12-30 12:20:07,936 | INFO | Page 147 scraped successfully with 20 records
+2025-12-30 12:20:08,941 | INFO | Processing page 148
+2025-12-30 12:20:08,942 | INFO | Scraping page 148
+2025-12-30 12:20:09,079 | INFO | Page 148 scraped successfully with 20 records
+2025-12-30 12:20:10,084 | INFO | Processing page 149
+2025-12-30 12:20:10,084 | INFO | Scraping page 149
+2025-12-30 12:20:10,187 | INFO | Page 149 scraped successfully with 20 records
+2025-12-30 12:20:11,192 | INFO | Processing page 150
+2025-12-30 12:20:11,192 | INFO | Scraping page 150
+2025-12-30 12:20:11,303 | INFO | Page 150 scraped successfully with 20 records
+2025-12-30 12:20:12,308 | INFO | Processing page 151
+2025-12-30 12:20:12,309 | INFO | Scraping page 151
+2025-12-30 12:20:12,429 | INFO | Page 151 scraped successfully with 20 records
+2025-12-30 12:20:13,434 | INFO | Processing page 152
+2025-12-30 12:20:13,435 | INFO | Scraping page 152
+2025-12-30 12:20:13,552 | INFO | Page 152 scraped successfully with 20 records
+2025-12-30 12:20:14,557 | INFO | Processing page 153
+2025-12-30 12:20:14,558 | INFO | Scraping page 153
+2025-12-30 12:20:14,684 | INFO | Page 153 scraped successfully with 20 records
+2025-12-30 12:20:15,689 | INFO | Processing page 154
+2025-12-30 12:20:15,690 | INFO | Scraping page 154
+2025-12-30 12:20:15,797 | INFO | Page 154 scraped successfully with 2 records
+2025-12-30 12:20:16,802 | INFO | Processing page 155
+2025-12-30 12:20:16,803 | INFO | Scraping page 155
+2025-12-30 12:20:16,879 | ERROR | Network error on page 155: 404 Client Error: Not Found for url: https://ibbi.gov.in/resolution-plans?page=155
+2025-12-30 12:20:16,879 | WARNING | Empty data on page 155, retrying once
+2025-12-30 12:20:16,879 | INFO | Scraping page 155
+2025-12-30 12:20:16,942 | ERROR | Network error on page 155: 404 Client Error: Not Found for url: https://ibbi.gov.in/resolution-plans?page=155
+2025-12-30 12:20:16,942 | INFO | Stopping scraper at page 155
+2025-12-30 12:20:16,942 | INFO | Scraping completed. Total records: 3062
+2025-12-30 12:20:17,225 | INFO | Excel file saved successfully: /Users/aditya/Scrapping_ibbi_data/api/../output/ibbi_resolution_plans_2025-12-30_12-17-22.xlsx
+2025-12-30 12:20:17,226 | INFO | 127.0.0.1 - - [30/Dec/2025 12:20:17] "GET /start-scraping HTTP/1.1" 200 -
+2025-12-30 12:27:04,227 | INFO | 127.0.0.1 - - [30/Dec/2025 12:27:04] "GET /favicon.ico HTTP/1.1" 200 -
+2025-12-30 12:27:04,271 | INFO | 127.0.0.1 - - [30/Dec/2025 12:27:04] "GET /favicon.ico HTTP/1.1" 200 -
+2025-12-30 12:30:21,232 | INFO | 127.0.0.1 - - [30/Dec/2025 12:30:21] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-12-30 12:30:21,283 | INFO | 127.0.0.1 - - [30/Dec/2025 12:30:21] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -

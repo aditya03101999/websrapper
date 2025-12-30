@@ -16,6 +16,15 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 def index():
     return send_from_directory(FRONTEND_DIR, 'index.html')
 
+# Serve favicon
+@app.route("/favicon.ico")
+def favicon():
+    return send_from_directory(
+        FRONTEND_DIR,
+        "favicon.png",
+        mimetype="image/png"
+    )
+
 
 # Scraper endpoint
 @app.route("/start-scraping", methods=["GET"])
